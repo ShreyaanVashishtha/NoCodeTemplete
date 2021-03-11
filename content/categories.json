@@ -3,7 +3,9 @@
     {
       "slug": "google-chrome-apps",
       "name": "Google Chrome Apps",
-      "description": "Vanishing in over 1 year, Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser. It will be over 11 years old.",    },
+      "description": "Vanishing in over 1 year, Google Chrome Apps were hosted or packaged web applications that ran on the Google Chrome browser. It will be over 11 years old.",
+      "icon": ""
+    },
     {
       "slug": "productivity",
       "name": "Productivity",
