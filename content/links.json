@@ -1,22 +1,9 @@
 {
   "links": [
     {
-      "categories_slugs": [
-        "open-source",
-        "productivity",
-        "design",
-        "finance",
-        "ideas",
-        "trends",
-        "communication",
-        "well-being",
-        "books",
-        "food",
-        "learning",
-        "cryptocurrency"
-      ],
-      "name": "Get Started with CuratedStack (No-Code) Template",
-      "description": "Create for free your own curated collection of websites for free",
+      "categories_slugs": [],
+      "name": "Welcome to KilledByGoogle",
+      "description": "Killed by Google. There's a lot of them! By Shreyaan Vashishtha",
       "url": "https://github.com/sandoche/CuratedStack-nocode-template",
       "icon": "/images/logos/icon.png"
     },
@@ -64,7 +51,8 @@
       ],
       "name": "Mobile App Landing Page Template",
       "description": "📱 Free to use static generated landing page template for your mobile app",
-      "url": "https://github.com/sandoche/Mobile-app-landingpage-template"
+      "url": "https://github.com/sandoche/Mobile-app-landingpage-template",
+      "icon": "google.com"
     },
     {
       "categories_slugs": [
@@ -214,7 +202,8 @@
       ],
       "name": "Jekyll-webpack-boilerplate",
       "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate"
+      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
+      "icon": "google.com"
     },
     {
       "categories_slugs": [
