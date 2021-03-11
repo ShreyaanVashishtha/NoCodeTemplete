@@ -33,6 +33,42 @@
       "categories_slugs": [
         "google-hangouts"
       ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Expeditions",
+      "icon": "/images/logos/unnamed.jpg",
+      "categories_slugs": [
+        "expeditions"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "url": "https://www.theverge.com/2020/11/13/21564279/google-expeditions-vr-cardboard-tours-shutdown-arts-culture-app-migration",
+      "icon": "/images/logos/tour-builder-logo.png",
+      "categories_slugs": [
+        "tour-creator"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Support",
+      "url": "https://support.google.com/poly/answer/10192635",
+      "icon": "/images/logos/mark.jpeg",
+      "categories_slugs": [
+        "poly"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at GitHub",
+      "url": "https://github.com/kellegous/go",
+      "icon": "/images/logos/google-url-shortener.jpg",
+      "categories_slugs": [
+        "google-go-links"
+      ]
     }
   ]
 }
