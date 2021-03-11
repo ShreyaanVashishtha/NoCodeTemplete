@@ -6,6 +6,15 @@
       "description": "Killed by Google. There's a lot of them! By Shreyaan Vashishtha",
       "url": "https://github.com/sandoche/CuratedStack-nocode-template",
       "icon": "/images/logos/icon.png"
+    },
+    {
+      "name": "TEST",
+      "description": "this is test",
+      "url": "https://www.example.com",
+      "icon": "/images/logos/moon_dark_mode_night-2-512.png",
+      "categories_slugs": [
+        "google-chrome-apps"
+      ]
     }
   ]
 }
