@@ -77,6 +77,24 @@
       "slug": "google-home-max",
       "description": "Killed 3 months ago, Google Home Max was a large, stereo smart speaker with two tweeters and subwoofers, aux input, and a USB-C input (for wired ethernet) featuring Smart Sound machine learning technology. It was about 3 years old.",
       "icon": " 💀"
+    },
+    {
+      "slug": "science-journal",
+      "name": "Science Journal",
+      "description": "Killed 3 months ago, Science Journal was a mobile app that helped you run science experiments with your smartphone using the device's onboard sensors. It was over 4 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "name": "Trusted Contacts",
+      "slug": "trusted-contacts",
+      "description": "Killed 3 months ago, Trusted Contacts was an app that allowed users to share their location and view the location of specific users. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed 5 months ago, Google Play Music was a music and podcast streaming service, and online music locker. It was almost 9 years old.",
+      "slug": "google-play-music",
+      "name": "Google Play Music"
     }
   ]
 }
