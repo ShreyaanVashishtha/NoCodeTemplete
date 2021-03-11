@@ -95,6 +95,12 @@
       "description": "Killed 5 months ago, Google Play Music was a music and podcast streaming service, and online music locker. It was almost 9 years old.",
       "slug": "google-play-music",
       "name": "Google Play Music"
+    },
+    {
+      "slug": "coming-soon",
+      "name": "Coming Soon...",
+      "description": "More Killed By Google Products coming soon...",
+      "icon": "🎉"
     }
   ]
 }
