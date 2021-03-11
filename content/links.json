@@ -8,10 +8,10 @@
       "icon": "/images/logos/icon.png"
     },
     {
-      "name": "TEST",
-      "description": "this is test",
-      "url": "https://www.example.com",
-      "icon": "/images/logos/moon_dark_mode_night-2-512.png",
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Chrome_App",
+      "icon": "/images/logos/256px-google_chrome_icon_-september_2014-.svg.png",
       "categories_slugs": [
         "google-chrome-apps"
       ]
