@@ -15,6 +15,24 @@
       "categories_slugs": [
         "google-chrome-apps"
       ]
+    },
+    {
+      "name": "Read More...",
+      "url": "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html",
+      "description": "Read More about this at Android Developers",
+      "icon": "/images/logos/9977.1516073792.png",
+      "categories_slugs": [
+        "android-things"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at ArsTechnica",
+      "url": "https://arstechnica.com/gadgets/2019/01/the-great-google-hangouts-shutdown-begins-october-2019/",
+      "icon": "/images/logos/1024px-hangouts_icon.svg.png",
+      "categories_slugs": [
+        "google-hangouts"
+      ]
     }
   ]
 }
