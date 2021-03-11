@@ -7,70 +7,70 @@
       "icon": ""
     },
     {
-      "slug": "productivity",
-      "name": "Productivity",
-      "description": "best free productivity tools",
-      "icon": "⌚"
+      "slug": "android-things",
+      "name": "Android Things",
+      "description": "Running out of juice in 10 months, Android Things was an Android-based embedded operating system (originally named Brillo) aimed to run on Internet of Things (IoT) devices. It will be over 6 years old.",
+      "icon": ""
     },
     {
-      "slug": "communication",
-      "name": "Communication",
-      "description": "best communication tools",
-      "icon": "💬"
+      "slug": "google-hangouts",
+      "name": "Google Hangouts",
+      "description": "Floating belly up in 4 months, Google Hangouts was a communication platform which included messages, video chat, and VOIP features. Execution scheduled 'first half 2021'. It will be over 8 years old.",
+      "icon": ""
     },
     {
-      "slug": "finance",
-      "name": "Finance",
-      "description": "best finance tools",
-      "icon": "💰"
+      "slug": "expiditions",
+      "name": "Expeditions",
+      "description": "Another one bites the dust in 4 months, Expeditions is a program for providing virtual reality experiences to school classrooms through Google Cardboard viewers, allowing educators to take their students on virtual field trips. It will be almost 6 years old.",
+      "icon": ""
     },
     {
-      "slug": "cryptocurrency",
-      "name": "Cryptocurrency",
+      "slug": "tour-creator",
+      "name": "Tour Creator",
       "description": "best cryptocurrency tools",
       "icon": "₿"
     },
     {
       "slug": "trends",
       "name": "Trends",
-      "description": "best trends tools",
-      "icon": "📈"
+      "description": "Scheduled to be killed in 4 months, Tour Creator allowed users to build immersive, 360° guided tours that could be viewed with VR devices. It will be about 3 years old.",
+      "icon": ""
     },
     {
-      "slug": "ideas",
-      "name": "Ideas",
-      "description": "best idea generation tools",
-      "icon": "💡"
+      "slug": "poly",
+      "name": "Poly",
+      "description": "Another one bites the dust in 4 months, Poly was a distribution platform for creators to share 3D objects. It will be over 3 years old.",
+      "icon": ""
     },
     {
-      "slug": "design",
-      "name": "Design",
-      "description": "best designs tools",
-      "icon": "🎨"
+      "slug": "google-go-links",
+      "name": "Google Go Links",
+      "description": "Vanishing in 19 days, (also known as Google Short Links) was a URL shortening service. It also supported custom domain for customers of Google Workspace (formerly G Suite (formerly Google Apps)). It will be about 11 years old.",
+      "icon": ""
     },
     {
-      "slug": "well-being",
-      "name": "Well-being",
-      "description": "best well-being tools",
-      "icon": "🍀"
+      "slug": "tilt-brush",
+      "name": "Tilt Brush",
+      "description": "Killed about 1 month ago, Tilt Brush was a room-scale 3D-painting virtual-reality application available from Google, originally developed by Skillman & Hackett. . It was almost 5 years old.",
+      "icon": ""
     },
     {
-      "slug": "books",
-      "name": "Books",
-      "description": "best books",
-      "icon": "📚"
+      "slug": "loon",
+      "name": "Loon",
+      "description": "Killed about 2 months ago, Loon was a service to provide internet access via an array of high-altitude balloons hovering in the Earth's stratsophere It was over 6 years old.",
+      "icon": ""
     },
     {
-      "slug": "food",
-      "name": "Food",
-      "description": "best resources for food lovers",
-      "icon": "🥑"
+      "slug": "app-maker",
+      "name": "App Maker",
+      "description": "Killed about 2 months ago, App Maker was a tool that allowed its users to build and deploy custom business apps easily and securely on the web without writing much code. It was about 4 years old.",
+      "icon": ""
     },
     {
-      "slug": "learning",
-      "name": "Learning",
-      "description": "best learning tools",
-      "icon": "🎓"
+      "slug": "google-cloud-print",
+      "name": "Google Cloud Print",
+      "description": "Killed 2 months ago, Google Cloud Print allowed users to 'print from anywhere;' to print from web, desktop, or mobile to any Google Cloud Print-connected printer. It was over 10 years old.s",
+      "icon": ""
     }
   ]
 }
