@@ -1,17 +1,17 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "description": "Build a curated directory of websites without or with code",
+  "title": "KilledByGoogle | Shreyaan Vashishtha",
+  "description": "Killed by Google. There's a lot of them! By Shreyaan Vashishtha",
   "tools": {
     "title": "Tools & Resources",
     "description": "Find the tool you need in each category"
   },
   "footer": {
-    "title": "Any tool to suggest?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "title": "Any more I forgot to add?",
+    "description": "Any more products Killed By Google that I forgot? Feel free to send them to me!",
+    "copyright": "Copyright © 2021 Shreyaan Vashishtha. All Rights Reserved.",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "Shreyaan Vashishtha",
+      "website": "http://www.shreyaan.tech"
     }
   },
   "buttons": {
