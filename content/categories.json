@@ -109,6 +109,12 @@
       "slug": "password-checkup-extension"
     },
     {
+      "description": "Killed 7 months ago, Focals were a custom-built smart glasses product with a transparent, holographic display that allowed users to read and respond to text messages, navigate turn-by-turn directions, check the weather, and integrate with third-party services like Uber and Amazon Alexa. It was over 1 year old.",
+      "name": "Focals by North",
+      "slug": "focals-by-north",
+      "icon": "💀"
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
