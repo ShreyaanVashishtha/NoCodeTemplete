@@ -105,6 +105,42 @@
       "url": "https://9to5google.com/2019/11/21/google-cloud-print-dead-2020/",
       "description": "Read More about this at 9to5 Google",
       "icon": "/images/logos/google_cloud_print_400x400.png"
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "google-home-max"
+      ],
+      "url": "https://9to5google.com/2021/01/26/google-home-max-discontinued/",
+      "description": "Read More about this at 9to5 Google",
+      "icon": "/images/logos/jbau2018_mfwjpg-1536299063572.jpg"
+    },
+    {
+      "categories_slugs": [
+        "science-journal"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Science Journal",
+      "url": "https://sciencejournal.withgoogle.com/",
+      "icon": "/images/logos/scijournal_0.png"
+    },
+    {
+      "categories_slugs": [
+        "trusted-contacts"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at ArsTechnica",
+      "icon": "/images/logos/5c77f2d76123a.png",
+      "url": "https://arstechnica.com/gadgets/2020/10/google-shuts-down-trusted-contacts-its-emergency-location-sharing-app/"
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "google-play-music"
+      ],
+      "url": "https://youtube.googleblog.com/2020/05/youtube-music-transfer-google-play-music-library.html",
+      "description": "Read More about this at YouTube Blog",
+      "icon": "/images/logos/918px-google_play_music_icon_-2016-.svg.png"
     }
   ]
 }
