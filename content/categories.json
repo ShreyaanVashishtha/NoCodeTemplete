@@ -265,6 +265,108 @@
       "description": "Killed over 1 year ago, Follow Your World allowed users to register points of interest on Google Maps and receive email updates whenever the imagery is updated. It was over 8 years old."
     },
     {
+      "icon": "💀",
+      "slug": "g-suite-training",
+      "name": "G Suite Training",
+      "description": "Killed over 1 year ago, G Suite Training (previously known as Synergyse) provided interactive and video-based training for 20 Google G Suite products in nine languages through a website and a Chrome extension. It was over 6 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "youtube-messages",
+      "name": "YouTube Messages",
+      "description": "Killed over 1 year ago, YouTube Messages was a direct messaging feature that allowed users to share and discuss videos one-on-one and in groups on YouTube. It was about 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "youtube-for-nintendo-3ds",
+      "name": "YouTube for Nintendo 3DS",
+      "description": "Killed over 1 year ago, YouTube app for Nintendo 3DS, 2DS, and New 3DS allowed users to stream YouTube videos on the portable gaming console. It was almost 6 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Works with Nest API",
+      "slug": "works-with-nest-api",
+      "description": "Killed over 1 year ago, Works with Nest was an API that allowed external services to access and control Nest devices. This enabled the devices to be used with third-party home automation platforms and devices. It was about 5 years old."
+    },
+    {
+      "name": "Google Trips",
+      "slug": "google-trips",
+      "icon": "💀",
+      "description": "Killed over 1 year ago, Google Trips was a mobile app that allowed users to plan for upcoming travel by facilitating flight, hotel, car, and restaurant reservations from user's email alongside summarized info about the user's destination. It was almost 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "hangouts-on-air",
+      "name": "Hangouts on Air",
+      "description": "Killed over 1 year ago, Hangouts on Air allowed users to host a multi-user video call while recording and streaming the call on YouTube. It was almost 8 years old."
+    },
+    {
+      "slug": "dragonfly",
+      "icon": "💀",
+      "name": "Dragonfly",
+      "description": "Killed over 1 year ago, Dragonfly was a search engine designed to be compatible with China's state censorship provisions. It was 11 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "Google Jump",
+      "name": "google-jump",
+      "description": "Killed over 1 year ago, Google Jump was a cloud-based VR media solution that enabled 3D-360 media production by integrating customized capture solutions with best-in-class automated stitching. It was about 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "blog-compass",
+      "name": "Blog Compass",
+      "description": "Killed over 1 year ago, Blog Compass was a blog management tool that integrated with WordPress and Blogger available only in India. It was 9 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "areo",
+      "name": "Areo",
+      "description": "Killed over 1 year ago, Areo was a mobile app that allowed users in Bangalore, Mumbai, Delhi, Gurgaon, and Pune to order meals from nearby restaurants or schedule appointments with local service professionals, including electricians, painters, cleaners, plumbers, and more. It was about 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "youtube-gaming",
+      "name": "YouTube Gaming",
+      "description": "Killed almost 2 years ago, YouTube Gaming was a video gaming-oriented service and app for videos and live streaming. It was almost 4 years old."
+    },
+    {
+      "slug": "google-cloud-messaging",
+      "name": "Google Cloud Messaging (GCM)",
+      "description": "Killed almost 2 years ago, Google Cloud Messaging (GCM) was a notification service that enabled developers to send messages between servers and client apps running on Android or Chrome. It was almost 7 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "description": "Killed almost 2 years ago, Data Saver was an extension for Chrome that routed webpages through Google servers to compress and reduce the user's bandwidth. It was about 4 years old.",
+      "name": "Data Saver Extension for Chrome",
+      "slug": "data-saver-extension-for-chrome"
+    },
+    {
+      "icon": "💀",
+      "slug": "inbox-by-gmail",
+      "name": "Inbox by Gmail",
+      "description": "Killed almost 2 years ago, Inbox by Gmail aimed to improve email through several key features. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google+",
+      "name": "Google+",
+      "description": "Killed almost 2 years ago, Google+ was an Internet-based social network. It was almost 8 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google URL Shortener",
+      "slug": "google-url-shortener",
+      "description": "Killed almost 2 years ago, Google URL Shortener, also known as goo.gl, was a URL shortening service. It was over 9 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed almost 2 years ago, Google Spotlight Stories was a app associated with a content studio with build award winning immersive storytelling experiences specifically for mobile VR headsets. It was over 5 years old.",
+      "slug": "google-spotlight-stories",
+      "name": "Google Spotlight Stories"
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
