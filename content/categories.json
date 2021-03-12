@@ -145,6 +145,30 @@
       "description": "Killed 10 months ago, Shoelace was an app used to find group activities with others who share your interests. It was 11 months old."
     },
     {
+      "slug": "neighbourly",
+      "name": "Neighbourly",
+      "description": "Killed 10 months ago, Neighbourly was a mobile app designed to help you learn about your neighborhood by asking other residents, and find out about local services and facilities in your area from people who live around you. It was almost 2 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "slug": "fabric",
+      "name": "Fabric",
+      "description": "Killed 10 months ago, Fabric was a platform that helped mobile teams build better apps, understand their users, and grow their business. It was over 5 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "material-theme-editor",
+      "name": "Material Theme Editor",
+      "description": "Killed 12 months ago, Material Theme Editor is a plugin for Sketch App which allows you to create a material based design system for your app. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-station",
+      "name": "Google Station",
+      "description": "Killed about 1 year ago, Google Station is a service which gives partners an easy set of tools to roll-out Wi-Fi hotspots in public places. Google Station provides software and guidance on hardware to turn fiber connections into fast, reliable and safe Wi-Fi zones. It was over 4 years old."
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
