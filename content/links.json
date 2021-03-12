@@ -78,6 +78,15 @@
       "description": "Read More about this at Tilt Brush",
       "url": "https://www.tiltbrush.com/",
       "icon": "/images/logos/tilt_brush_by_google_lockup_grey.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "url": "https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x",
+      "icon": "/images/logos/978d7e534650201d1e9a70cfa6f8c27c.svg",
+      "categories_slugs": [
+        "loon"
+      ]
     }
   ]
 }
