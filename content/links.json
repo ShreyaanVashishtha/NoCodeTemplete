@@ -258,6 +258,42 @@
       "url": "https://india.googleblog.com/2020/02/five-years-400-stations-and-thousands.html",
       "icon": "/images/logos/google-station-logo.jpg",
       "name": "Read More..."
+    },
+    {
+      "categories_slugs": [
+        "one-today"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Tech Crunch",
+      "url": "https://techcrunch.com/2013/04/18/googles-one-today-app-aims-to-make-charitable-donations-a-more-social-and-frequent-experience/",
+      "icon": "/images/logos/screen-shot-2013-05-27-at-4.01.45-pm.png"
+    },
+    {
+      "categories_slugs": [
+        "androidify"
+      ],
+      "url": "https://9to5google.com/2020/02/06/google-removes-androidify-app/",
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "icon": "/images/logos/568d346fddfbe.png"
+    },
+    {
+      "categories_slugs": [
+        "google-fiber-tv"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "url": "https://www.theverge.com/2020/2/4/21123050/google-fiber-tv-package-removed-internet-service-high-speed",
+      "icon": "/images/logos/fiber.svg"
+    },
+    {
+      "categories_slugs": [
+        "field-trip"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Field_Trip_(application)",
+      "description": "Read More about this at Wikipedia",
+      "name": "Read More...",
+      "icon": "/images/logos/field_trip_logo.jpg"
     }
   ]
 }
