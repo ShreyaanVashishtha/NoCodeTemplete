@@ -115,6 +115,36 @@
       "icon": "💀"
     },
     {
+      "name": "Sceneform SDK for Android",
+      "slug": "sceneform-sdk-for-android",
+      "description": "Killed 8 months ago, Sceneform SDK for Android was a library and toolset for building AR scenes. It was about 2 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "name": "Google Photos Print",
+      "slug": "google-photos-print",
+      "description": "Killed 9 months ago, Google Photos Print was a subscription service that automatically selected the best ten photos from the last thirty days which were mailed to user's homes. It was 5 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "pigeon-transit",
+      "name": "Pigeon Transit",
+      "description": "Killed 9 months ago, Pigeon Transit was a transit app that used croudsourced information about delays, crowded trains, escalator outages, live entertainment, dirty or unsafe conditions. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed 10 months ago, Enhanced 404 Pages was a JavaScript library that added suggested URLs and a search box to a website's 404 Not Found page. It was over 11 years old.",
+      "name": "Enhanced 404 Pages",
+      "slug": "enhanced-404-pages"
+    },
+    {
+      "icon": "💀",
+      "name": "Shoelace",
+      "slug": "shoelace",
+      "description": "Killed 10 months ago, Shoelace was an app used to find group activities with others who share your interests. It was 11 months old."
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
