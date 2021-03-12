@@ -87,6 +87,24 @@
       "categories_slugs": [
         "loon"
       ]
+    },
+    {
+      "categories_slugs": [
+        "app-maker"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_App_Maker",
+      "icon": "/images/logos/appmaker-logo.png.webp"
+    },
+    {
+      "categories_slugs": [
+        "google-cloud-print"
+      ],
+      "name": "Read More...",
+      "url": "https://9to5google.com/2019/11/21/google-cloud-print-dead-2020/",
+      "description": "Read More about this at 9to5 Google",
+      "icon": "/images/logos/google_cloud_print_400x400.png"
     }
   ]
 }
