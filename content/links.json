@@ -141,6 +141,42 @@
       "url": "https://youtube.googleblog.com/2020/05/youtube-music-transfer-google-play-music-library.html",
       "description": "Read More about this at YouTube Blog",
       "icon": "/images/logos/918px-google_play_music_icon_-2016-.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Android Police",
+      "url": "https://www.androidpolice.com/2020/10/19/google-confirms-the-nest-secure-has-been-discontinued/",
+      "icon": "/images/logos/googlenest_logo_horizontal_hex.png",
+      "categories_slugs": [
+        "nest-secure"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "hire-by-google"
+      ],
+      "url": "https://www.theverge.com/2019/8/28/20837004/google-hire-next-tool-shut-down-service-jobs-hiring-recruiting-inbox-allo",
+      "description": "Read More about this at The Verge",
+      "icon": "/images/logos/hire_logo.svg"
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "password-checkup-extension"
+      ],
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2020/07/30/password-checkup-chrome-extension/",
+      "icon": "/images/logos/uploads-2fstory-2fthumbnail-2f90923-2f95970757-b342-4cb4-9ec7-d99e5eb9beaf.png-2f950x534.png"
+    },
+    {
+      "categories_slugs": [
+        "focals-by-north"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Tech Crunch",
+      "url": "https://techcrunch.com/2020/06/30/google-acquires-smart-glasses-company-north-whose-focals-2-0-wont-ship/",
+      "icon": "/images/logos/northlogo.png"
     }
   ]
 }
