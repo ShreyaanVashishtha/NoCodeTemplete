@@ -91,6 +91,24 @@
       "name": "Google Play Music"
     },
     {
+      "slug": "nest-secure",
+      "name": "Nest Secure",
+      "description": "Killed 5 months ago, Nest Secure was a security system with an alarm, keypad, and motion sensor with embedded microphone. It was almost 3 years old.",
+      "icon": "💀"
+    },
+    {
+      "slug": "hire-by-google",
+      "name": "Hire By Google",
+      "description": "Killed 6 months ago, Google Hire was an applicant tracking system to help small to medium businesses distribute jobs, identify and attract candidates, build strong relationships with candidates, and efficiently manage the interview process. It was about 3 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "description": "Killed 6 months ago, Password Checkup provided a warning to users if they were using a username and password combination checked against over 4 billion credentials that Google knew to be unsafe. It was over 1 year old.",
+      "name": "Password Checkup Extension",
+      "slug": "password-checkup-extension"
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
