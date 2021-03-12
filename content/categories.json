@@ -308,8 +308,8 @@
     },
     {
       "icon": "💀",
-      "slug": "Google Jump",
-      "name": "google-jump",
+      "slug": "google-jump",
+      "name": "Google Jump",
       "description": "Killed over 1 year ago, Google Jump was a cloud-based VR media solution that enabled 3D-360 media production by integrating customized capture solutions with best-in-class automated stitching. It was about 4 years old."
     },
     {
@@ -365,6 +365,48 @@
       "description": "Killed almost 2 years ago, Google Spotlight Stories was a app associated with a content studio with build award winning immersive storytelling experiences specifically for mobile VR headsets. It was over 5 years old.",
       "slug": "google-spotlight-stories",
       "name": "Google Spotlight Stories"
+    },
+    {
+      "icon": "💀",
+      "slug": "google-allo",
+      "name": "Google Allo",
+      "description": "Killed almost 2 years ago, Google Allo was an instant messaging mobile app for Android, iOS, and Web with special features like a virtual assistant and encrypted mode. It was rebranded as Google Chat. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-notification-widget",
+      "name": "Google Notification Widget (Mr. Jingles)",
+      "description": "Killed about 2 years ago, Mr. Jingles (aka Google Notification Widget) displayed alerts and notifications from across multiple Google services. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed about 2 years ago, YouTube Video Annotations allowed video creators to add interactive commentary to their videos containing background information, branching (\"choose your own adventure\" style) stories, or links to any YouTube video, channel, or search results page. It was over 10 years old.",
+      "slug": "youtube-video-annotations",
+      "name": "YouTube Video Annotations"
+    },
+    {
+      "icon": "💀",
+      "slug": "google-realtime-api",
+      "name": "Google Realtime API",
+      "description": "Killed about 2 years ago, Google Realtime API provided ways to synchronise resources between devices. It operated on files stored on Google Drive. It was almost 6 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "chromecast-audio",
+      "name": "Chromecast Audio",
+      "description": "Killed about 2 years ago, Chromecast Audio was a device that allowed users to stream audio from any device to any speaker with an audio input. It was over 3 years old."
+    },
+    {
+      "name": "Google Search Appliance",
+      "slug": "google-search-appliance",
+      "icon": "💀",
+      "description": "Killed about 2 years ago, Google Search Appliance was a rack-mounted device that provided document indexing functionality. It was almost 17 years old."
+    },
+    {
+      "slug": "google-nearby-notifications",
+      "name": "Google Nearby Notifications",
+      "description": "Killed over 2 years ago, Google Nearby Notifications were a proximity marketing tool using Bluetooth beacons and location-based data to serve content relevant to an Android user's real-world location. It was over 3 years old.",
+      "icon": "💀"
     },
     {
       "slug": "coming-soon",
