@@ -169,6 +169,30 @@
       "description": "Killed about 1 year ago, Google Station is a service which gives partners an easy set of tools to roll-out Wi-Fi hotspots in public places. Google Station provides software and guidance on hardware to turn fiber connections into fast, reliable and safe Wi-Fi zones. It was over 4 years old."
     },
     {
+      "slug": "one-today",
+      "name": "One Today",
+      "description": "Killed about 1 year ago, One Today was an app that allowed users to donate $1 to different organizations and discover how their donation would be used. It was almost 7 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "slug": "androidify",
+      "name": "Androidify",
+      "description": "Killed about 1 year ago, Androidify allowed users to create a custom Android avatar of for themselves and for others. It was almost 9 years old."
+    },
+    {
+      "slug": "google-fiber-tv",
+      "name": "Google Fiber TV",
+      "description": "Killed about 1 year ago, Google Fiber TV was an IPTV service that was bundled with Google Fiber. It was about 7 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "slug": "field-trip",
+      "name": "Field Trip",
+      "description": "Killed about 1 year ago, Field Trip was a mobile app that acted as a virtual tour guide by cross referencing multiple sources of information to provide users information about points of interest near them. It was over 7 years old."
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
