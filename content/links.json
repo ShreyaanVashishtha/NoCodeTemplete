@@ -296,13 +296,49 @@
       "icon": "/images/logos/field_trip_logo.jpg"
     },
     {
-      "name": "test",
-      "description": "test",
-      "url": "let",
+      "url": "https://de.wikipedia.org/wiki/Google_Correlate",
+      "description": "Read More about this at Wikipedia",
+      "name": "Read More...",
       "categories_slugs": [
-        "google-hangouts"
+        "google-correlate"
       ],
-      "icon": "/images/logos/1024px-hangouts_icon.svg.png"
+      "icon": "/images/logos/unknown.png"
+    },
+    {
+      "categories_slugs": [
+        "google-translator-toolkit"
+      ],
+      "url": "https://support.google.com/translatortoolkit/answer/9462068",
+      "name": "Read More...",
+      "description": "Read More about this at Google Support",
+      "icon": "/images/logos/l.jpg"
+    },
+    {
+      "categories_slugs": [
+        "google-fusion-tables"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Fusion_Tables",
+      "description": "Read More about this at Wikipedia",
+      "name": "Read More...",
+      "icon": "/images/logos/google_fusion_tables_logo.png"
+    },
+    {
+      "categories_slugs": [
+        "google-bulletin"
+      ],
+      "url": "https://www.androidpolice.com/2019/09/26/googles-hyperlocal-news-app-bulletin-is-shutting-down/",
+      "description": "Read More about this at Android Police",
+      "name": "Read More...",
+      "icon": "/images/logos/google_bulletin-300x300.jpg"
+    },
+    {
+      "categories_slugs": [
+        "touring-bird"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2019/10/22/google-touring-bird/",
+      "icon": "/images/logos/blgbc9asntjlbmrx4j8j.jpeg"
     }
   ]
 }
