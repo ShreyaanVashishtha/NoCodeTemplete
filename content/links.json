@@ -40,7 +40,7 @@
       "url": "https://en.wikipedia.org/wiki/Google_Expeditions",
       "icon": "/images/logos/unnamed.jpg",
       "categories_slugs": [
-        "expeditions"
+        "expiditions"
       ]
     },
     {
@@ -69,6 +69,15 @@
       "categories_slugs": [
         "google-go-links"
       ]
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "tilt-brush"
+      ],
+      "description": "Read More about this at Tilt Brush",
+      "url": "https://www.tiltbrush.com/",
+      "icon": "/images/logos/tilt_brush_by_google_lockup_grey.png"
     }
   ]
 }
