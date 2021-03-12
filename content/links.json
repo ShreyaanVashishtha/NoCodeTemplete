@@ -222,6 +222,42 @@
       "categories_slugs": [
         "shoelace"
       ]
+    },
+    {
+      "categories_slugs": [
+        "neighbourly"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at The Next Web",
+      "url": "https://thenextweb.com/google/2020/04/02/google-is-shutting-down-its-neighbourly-app/",
+      "icon": "/images/logos/google_neighbourly_app_small_1542779026459.jpg.png"
+    },
+    {
+      "categories_slugs": [
+        "fabric"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Fabric",
+      "url": "https://get.fabric.io/roadmap",
+      "icon": "/images/logos/bluelogo.png"
+    },
+    {
+      "description": "Read More about this at Medium",
+      "name": "Read More...",
+      "url": "https://medium.com/google-design/whats-next-for-material-design-s-theming-tools-f65014ffcce7",
+      "categories_slugs": [
+        "material-theme-editor"
+      ],
+      "icon": "/images/logos/1200px-google_material_design_logo.svg.png"
+    },
+    {
+      "description": "Read More about this at Google Blog",
+      "categories_slugs": [
+        "google-station"
+      ],
+      "url": "https://india.googleblog.com/2020/02/five-years-400-stations-and-thousands.html",
+      "icon": "/images/logos/google-station-logo.jpg",
+      "name": "Read More..."
     }
   ]
 }
