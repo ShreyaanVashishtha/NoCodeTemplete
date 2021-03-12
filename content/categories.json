@@ -223,6 +223,48 @@
       "description": "Killed over 1 year ago, Touring Bird was an Area 120 incubator project which helped users compare prices, book tours, tickets, and experiences, and learn about top destinations around the world. It was about 1 year old."
     },
     {
+      "slug": "game-builder",
+      "name": "Game Builder",
+      "description": "Killed over 1 year ago, Game Builder was a multiplayer 3D game environment for creating new games without coding experience. It was 5 months old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "slug": "datally",
+      "name": "Datally",
+      "description": "Killed over 1 year ago, Datally (formerly Triangle) was a smart app by Google that helped you save, manage, and share your mobile data. It was over 2 years old."
+    },
+    {
+      "slug": "google-clips",
+      "icon": "💀",
+      "description": "Killed over 1 year ago, Google Clips was a miniature clip-on camera that could automatically capture interesting or relevant video clips determined by machine learning algorithms. It was about 2 years old.",
+      "name": "Google Clips"
+    },
+    {
+      "icon": "💀",
+      "slug": "google-daydream",
+      "name": "Google Daydream",
+      "description": "Killed over 1 year ago, Google Daydream was a virtual reality platform and set of hardware devices that worked with certain Android phones. It was almost 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "youtube-leanback",
+      "name": "YouTube Leanback",
+      "description": "Killed over 1 year ago, YouTube Leanback was an optimized version of YouTube used for television web browsers and webview application wrappers. It was about 9 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "message-center",
+      "name": "Message Center",
+      "description": "Killed over 1 year ago, Message Center is a web console where Gmail users view and manage spam email messages. It was almost 6 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "follow-your-world",
+      "name": "Follow Your World",
+      "description": "Killed over 1 year ago, Follow Your World allowed users to register points of interest on Google Maps and receive email updates whenever the imagery is updated. It was over 8 years old."
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
