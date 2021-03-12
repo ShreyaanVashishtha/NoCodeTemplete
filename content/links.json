@@ -294,6 +294,15 @@
       "description": "Read More about this at Wikipedia",
       "name": "Read More...",
       "icon": "/images/logos/field_trip_logo.jpg"
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "url": "let",
+      "categories_slugs": [
+        "google-hangouts"
+      ],
+      "icon": "/images/logos/1024px-hangouts_icon.svg.png"
     }
   ]
 }
