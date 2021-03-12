@@ -339,6 +339,69 @@
       "description": "Read More about this at 9to5 Google",
       "url": "https://9to5google.com/2019/10/22/google-touring-bird/",
       "icon": "/images/logos/blgbc9asntjlbmrx4j8j.jpeg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Steam Community",
+      "url": "https://steamcommunity.com/games/929860/announcements/detail/1608276251516057010",
+      "categories_slugs": [
+        "game-builder"
+      ],
+      "icon": "/images/logos/game-builder.jpg"
+    },
+    {
+      "description": "Read More about this at The Next Web",
+      "name": "Read More...",
+      "url": "https://thenextweb.com/google/2019/10/17/googles-datally-app-for-saving-on-mobile-data-is-dead/",
+      "categories_slugs": [
+        "datally"
+      ],
+      "icon": "/images/logos/unnamed.webp"
+    },
+    {
+      "categories_slugs": [
+        "google-clips"
+      ],
+      "name": "Read More...",
+      "url": "https://en.wikipedia.org/wiki/Google_Clips",
+      "description": "Read More about this at Wikipedia",
+      "icon": "/images/logos/google_clips_wordmark.png"
+    },
+    {
+      "categories_slugs": [
+        "google-daydream"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Daydream",
+      "icon": "/images/logos/google_daydream_logo.png"
+    },
+    {
+      "categories_slugs": [
+        "youtube-leanback"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2019/09/16/youtube-leanback-tv-interface-disabled-soon/",
+      "icon": "/images/logos/youtube-new-logo.png"
+    },
+    {
+      "categories_slugs": [
+        "message-center"
+      ],
+      "url": "https://support.google.com/a/answer/9275489",
+      "name": "Read More...",
+      "description": "Read More about this at Google Support",
+      "icon": "/images/logos/409d4122d78cfee37141237bef51a03a.png"
+    },
+    {
+      "categories_slugs": [
+        "follow-your-world"
+      ],
+      "url": "https://maps.googleblog.com/2011/01/sign-up-for-imagery-update-alert.html",
+      "name": "Read More…",
+      "description": "Read More about this at Google Blog",
+      "icon": "/images/logos/profile-13042-15964846925088897695.png"
     }
   ]
 }
