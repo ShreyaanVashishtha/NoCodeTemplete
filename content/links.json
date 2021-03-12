@@ -177,6 +177,51 @@
       "description": "Read More about this at Tech Crunch",
       "url": "https://techcrunch.com/2020/06/30/google-acquires-smart-glasses-company-north-whose-focals-2-0-wont-ship/",
       "icon": "/images/logos/northlogo.png"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/62453399/google-sceneform-is-it-deprecated-any-replacement",
+      "name": "Read More...",
+      "description": "Read More about this at Stackoverflow",
+      "categories_slugs": [
+        "sceneform-sdk-for-android"
+      ],
+      "icon": "/images/logos/31216907.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Forbes",
+      "url": "https://www.forbes.com/sites/paulmonckton/2020/06/20/google-photos-featue-cancellation-auto-print-selection/#19631af66294",
+      "categories_slugs": [
+        "google-photos-print"
+      ],
+      "icon": "/images/logos/960x0.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Slashgear",
+      "categories_slugs": [
+        "pigeon-transit"
+      ],
+      "url": "https://www.slashgear.com/pigeon-crowdsourced-transit-app-experiment-is-shutting-down-11624401/",
+      "icon": "/images/logos/pigeon-app-logo-300x300.jpg"
+    },
+    {
+      "categories_slugs": [
+        "enhanced-404-pages"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Google Blog",
+      "url": "https://webmasters.googleblog.com/2008/08/make-your-404-pages-more-useful.html",
+      "icon": "/images/logos/404-error-page-templates.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2020/04/28/shoelace-area-120-shutdown/",
+      "icon": "/images/logos/shoelace_logo.png",
+      "categories_slugs": [
+        "shoelace"
+      ]
     }
   ]
 }
