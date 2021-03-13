@@ -510,6 +510,51 @@
         "google-cloud-messaging"
       ],
       "icon": "/images/logos/preview.png"
+    },
+    {
+      "categories_slugs": [
+        "data-saver-extension-for-chrome"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Chromium Blog",
+      "url": "https://blog.chromium.org/2019/04/data-saver-is-now-lite-mode.html",
+      "icon": "/images/logos/256px-google_chrome_icon_-september_2014-.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inbox_by_Gmail",
+      "categories_slugs": [
+        "inbox-by-gmail"
+      ],
+      "icon": "/images/logos/google_inbox_by_gmail_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google%2B",
+      "icon": "/images/logos/google-logo-71a6ae6011-seeklogo.com.png",
+      "categories_slugs": [
+        "google+"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_URL_Shortener",
+      "icon": "/images/logos/google_url_shortener_logo.png",
+      "categories_slugs": [
+        "google-url-shortener"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Variety",
+      "url": "https://variety.com/2019/digital/news/google-spotlight-stories-shutting-down-1203163117/",
+      "categories_slugs": [
+        "google-spotlight-stories"
+      ],
+      "icon": "/images/logos/logo-spotlight-stories-alt.png"
     }
   ]
 }
