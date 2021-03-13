@@ -409,6 +409,192 @@
       "icon": "💀"
     },
     {
+      "slug": "google-news-&-weather",
+      "name": "Google News & Weather",
+      "description": "Killed over 2 years ago, Google News & Weather was a news aggregator application available on the Android and iOS operating systems. It was about 2 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "slug": "reply",
+      "name": "Reply",
+      "description": "Killed over 2 years ago, Reply was a mobile app that let users insert Smart Replies (pre-defined replies) into conversations on messaging apps. It was 8 months old."
+    },
+    {
+      "icon": "💀",
+      "name": "Tez",
+      "slug": "tez",
+      "description": "Killed over 2 years ago, Tez was a mobile payments service by Google, targeted at users in India. It was rebranded to Google Pay. It was 11 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-goggles",
+      "name": "Google Goggles",
+      "description": "Killed over 2 years ago, Google Goggles was used for searches based on pictures taken by handheld devices. It was almost 8 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "save-to-google-chrome-extension",
+      "name": "Save to Google Chrome Extension",
+      "description": "Killed over 2 years ago, Save to Google Chrome Extension enabled you to quickly save a page link with image and tags to a Pocket-like app. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-play-newsstand",
+      "name": "Google Play Newsstand",
+      "description": "Killed almost 3 years ago, Google Play Newsstand was a news aggregator and digital newsstand service. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Encrypted Search",
+      "slug": "encrypted-search",
+      "description": "Killed almost 3 years ago, Encrypted Search provided users with anonymous internet searching. It was almost 8 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "qpx-express-api",
+      "name": "qpx-express-API",
+      "description": "Killed almost 3 years ago, A service that Google developed for long-tail travel clients. ITA Software will create a new, easier way for users to find better flight information online, which should encourage more users to make their flight purchases online. It was almost 8 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Site Search",
+      "slug": "google-site-search",
+      "description": "Killed almost 3 years ago, Google's Site Search was a service that enabled any website to add a custom search field powered by Google. It was over 9 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "reCAPTCHA-mailhide",
+      "name": "reCAPTCHA Mailhide",
+      "description": "Killed almost 3 years ago, reCAPTCHA Mailhide allowed users to mask their email address behind a captcha to prevent robots from scraping the email and sending spam. It was almost 8 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "SoundStage",
+      "slug": "soundStage",
+      "description": "Killed about 3 years ago, SoundStage was a virtual reality music sandbox built specifically for room-scale VR. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "project-tango",
+      "name": "Project Tango",
+      "description": "Killed about 3 years ago, Project Tango was an API for augmented reality apps that was killed and replaced by ARCore. It was about 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-portfolios",
+      "name": "Google Portfolios",
+      "description": "Killed over 3 years ago, Portfolios was a feature available in Google Finance to track personal financial securities. It was over 11 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed over 3 years ago, YouTube Video Editor was a web-based tool for editing, merging, and adding special effects to video content. It was over 7 years old.",
+      "slug": "youtube-video-editor",
+      "name": "YouTube Video Editor"
+    },
+    {
+      "icon": "💀",
+      "slug": "trendalyzer",
+      "name": "Trendalyzer",
+      "description": "Killed over 3 years ago, Trendalyzer was a data trend viewing platform. It was over 10 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "glass-os",
+      "name": "Glass OS",
+      "description": "Killed over 3 years ago, Glass OS (Google XE) was a version of Google's Android operating system designed for Google Glass. It was about 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-map-maker",
+      "name": "Google Map Maker",
+      "description": "Killed almost 4 years ago, Google Map Maker was a mapping and map editing service where users were able to draw features directly onto a map. It was almost 9 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "chromebook-pixel",
+      "name": "Chromebook Pixel",
+      "description": "Killed about 4 years ago, Chromebook Pixel was a first-of-its-kind laptop built by Google that ran Chrome OS, a Linux kernel-based operating system. It was about 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-spaces",
+      "name": "Google Spaces",
+      "description": "Killed about 4 years ago, Google Spaces was an app for group discussions and messaging. It was 9 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-hands-free",
+      "name": "Google Hands Free",
+      "description": "Killed about 4 years ago, Google Hands Free was a mobile payment system that allowed users to pay their bill using Bluetooth to connect to payment terminals by saying 'I'll pay with Google.' It was 11 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "gesture-search",
+      "name": "Gesture Search",
+      "description": "Killed about 4 years ago, Google Gesture Search allowed users to search contacts, applications, settings, music and bookmark on their Android device by drawing letters or numbers onto the screen. It was almost 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "panoramio",
+      "name": "Panoramio",
+      "description": "Killed over 4 years ago, Panoramio was a geo-location tagging and photo sharing product. It was about 11 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Showtimes",
+      "slug": "google-showtimes",
+      "description": "Killed over 4 years ago, Google Showtimes was a standalone movie search result page. It was about 11 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "pixate",
+      "name": "Pixate",
+      "description": "Killed over 4 years ago, Pixate was a platform for creating sophisticated animations and interactions, and refine your designs through 100% native prototypes for iOS and Android. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-nexus",
+      "name": "Google Nexus",
+      "description": "Killed over 4 years ago, Google Nexus was Google's line of flagship Android phones, tablets, and accessories. It was over 6 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "together",
+      "name": "Together",
+      "description": "Killed over 4 years ago, Together was a watch face for Android Wear that let two users link their watches together to share small visual messages. It was about 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "project-ara",
+      "name": "Project Ara",
+      "description": "Killed over 4 years ago, Project Ara was a modular smartphone project under development by Google. It was almost 3 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Web Hosting in Google Drive",
+      "slug": "web-hosting-in-google-drive",
+      "description": "Killed over 4 years ago, Web hosting in Google Drive was a method of uploading HTML, CSS and other files in order to publish live web sites. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Swiffy",
+      "slug": "google-swiffy",
+      "description": "Killed over 4 years ago, Google Swiffy was a web-based tool that converted SWF files to HTML5. It was about 5 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Wallet Card",
+      "slug": "google-wallet-card",
+      "description": "Killed over 4 years ago, Google Wallet Card was a prepaid debit card that let users pay for things in person and online using their Wallet balance at any retailer that accepted MasterCard. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "nexus-player",
+      "name": "Nexus Player",
+      "description": "Killed almost 5 years ago, Nexus Player was a digital media player that allowed users to play music, watch video originating from Internet services or a local network, and play games. It was over 1 year old."
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
