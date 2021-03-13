@@ -595,6 +595,306 @@
       "description": "Killed almost 5 years ago, Nexus Player was a digital media player that allowed users to play music, watch video originating from Internet services or a local network, and play games. It was over 1 year old."
     },
     {
+      "slug": "revolv",
+      "name": "Revolv",
+      "description": "Killed almost 5 years ago, Revolv was a monitoring and control system that allowed users to control their connected devices from a single hub. It was about 4 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "slug": "freebase",
+      "name": "Freebase",
+      "description": "Killed almost 5 years ago, Freebase was a large collaborative knowledge base consisting of structured data composed mainly by its community members, developed by Metaweb(acquired by Google). It was about 9 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-now",
+      "name": "Google Now",
+      "description": "Killed almost 5 years ago, Google Now was a feature of Google Search that offered predictive cards with information and daily updates in Chrome and the Google app for Android and iOS. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "MyTracks",
+      "slug": "mytracks",
+      "description": "Killed almost 5 years ago, MyTracks was a GPS tracking application for Android which allowed users to track their path, speed, distance and elevation. It was about 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "uweave",
+      "name": "uWeave",
+      "description": "Killed almost 5 years ago, uWeave (pronounced “micro weave”) was an implementation of the Weave protocol intended for use on microcontroller based devices. It was 4 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-compare",
+      "name": "Google Compare",
+      "description": "Killed about 5 years ago, Google Compare allowed consumers to compare several offers ranging from insurance, mortgage, and credit cards. It was about 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "pie",
+      "name": "Pie",
+      "description": "Killed about 5 years ago, Pie was a work-centric groupchat website and app comparable to Slack. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-maps-engine",
+      "name": "Google Maps Engine",
+      "description": "Killed about 5 years ago, Google Maps Engine was an online tool for map creation. It enabled you to create layered maps using your own data as well as Google Maps data. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "songza",
+      "name": "Songza",
+      "description": "Killed about 5 years ago, Songza was a free music streaming service that would recommend its users various playlists based on time of day and mood or activity. It was about 8 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-code",
+      "name": "Google Code",
+      "description": "Killed about 5 years ago, Google Code was a service that provided revision control, an issue tracker, and a wiki for code documentation. It was almost 11 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed about 5 years ago, Google Blog Search API was a way to search blogs utilizing Google. It was over 10 years old.",
+      "name": "Google Blog Search API",
+      "slug": "google-blog-search-api"
+    },
+    {
+      "icon": "💀",
+      "slug": "google-earth-browser-plug-in",
+      "name": "Google Earth Browser Plug-in",
+      "description": "Killed over 5 years ago, Google Earth Browser Plug-in allowed developers to embed Google Earth into web pages and included a JavaScript API for custom 3D drawing and interaction. It was over 7 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Timeful",
+      "slug": "timeful",
+      "description": "Killed over 5 years ago, Timeful was an iOS to do list and calendar application, developed to reinvent the way that people manage their most precious resource of time. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "picasa",
+      "name": "Picasa",
+      "description": "Killed over 5 years ago, Picasa was an image organizer and image viewer for organizing and editing digital photos. It was almost 13 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-flu-trends",
+      "name": "Google Flu Trends",
+      "description": "Killed over 5 years ago, Google Flu Trends was a service attempting to make accurate predictions about flu activity. It was almost 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-catalogs",
+      "name": "Google Catalogs",
+      "description": "Killed over 5 years ago, Google Catalogs was a shopping application that delivered the virtual catalogs of large retailers to users. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Moderator",
+      "slug": "google-moderator",
+      "description": "Killed over 5 years ago, Google Moderator was a service that used crowdsourcing to rank user-submitted questions, suggestions and ideas. It was almost 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "android-@-home",
+      "name": "Android @ Home",
+      "description": "Killed almost 6 years ago, Android @ Home allowed a user’s device to discover, connect, and communicate with devices and appliances in the home. It was about 4 years old."
+    },
+    {
+      "description": "Killed almost 6 years ago, Google Helpouts was an online collaboration service where users could share their expertise through live video. It was over 1 year old.",
+      "icon": "💀",
+      "name": "Google Helpouts",
+      "slug": "google-helpouts"
+    },
+    {
+      "icon": "💀",
+      "name": "BebaPay",
+      "slug": "bebapay",
+      "description": "Killed almost 6 years ago, BebaPay was a form of electronic ticketing platform in Nairobi, Kenya that was developed by Google in partnership with Equity Bank. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Play Edition",
+      "slug": "google-play-edition",
+      "description": "Killed about 6 years ago, Google Play Edition devices were a series of Android smartphones and tablets sold by Google. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Glass Explorer Edition",
+      "slug": "google-glass-explorer-edition",
+      "description": "Killed about 6 years ago, Google Glass Explorer Edition was a wearable computer with an optical head-mounted display and camera that allows the wearer to interact with various applications and the Internet via natural language voice commands. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Word Lens",
+      "slug": "word-lens",
+      "description": "Killed about 6 years ago, Word Lens translated text in real time on images by using the viewfinder of a device's camera without the need of an internet connection; The technology was rolled into Google Translate. It was about 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "orkut",
+      "name": "Orkut",
+      "description": "Killed over 6 years ago, Orkut was a social network designed to help users meet new and old friends and maintain existing relationships. It was over 10 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-tv",
+      "name": "Google TV",
+      "description": "Killed over 6 years ago, Google TV was a smart TV platform that integrated Android and Chrome to create an interactive television overlay. It was over 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "quickoffice",
+      "name": "Quickoffice",
+      "description": "Killed over 6 years ago, Quickoffice was a productivity suite for mobile devices which allowed the viewing, creating and editing of documents, presentations and spreadsheets. It was 9 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-questions-and-answers",
+      "name": "Google Questions and Answers",
+      "description": "Killed over 6 years ago, Google Questions and Answers was a free knowledge market that allowed users to collaboratively find answers to their questions. It was almost 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "wildfire-interactive",
+      "name": "Wildfire Interactive",
+      "description": "Killed almost 7 years ago, Wildfire by Google was a social marketing application that enabled businesses to create, optimize and measure their presence on social networks. It was over 1 year old.\n"
+    },
+    {
+      "icon": "💀",
+      "slug": "bufferbox",
+      "name": "BufferBox",
+      "description": "Killed about 7 years ago, BufferBox was a Canadian startup that provided consumers 24/7 convenience of picking up their online purchases. It was about 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "slicklogin",
+      "name": "SlickLogin",
+      "description": "Killed about 7 years ago, SlickLogin was an Israeli start-up company which developed sound-based password alternatives, was acquired by Google and hasn't released anything since. It was 7 months old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Schemer",
+      "slug": "google-schemer",
+      "description": "Killed about 7 years ago, Google Schemer was a Google service for sharing and discovering things to do. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed about 7 years ago, Google Chrome Frame was a plugin for Internet Explorer that allowed web pages to be displayed using WebKit and the V8 JavaScript engine. It was over 3 years old.",
+      "slug": "google-chrome-frame",
+      "name": "Google Chrome Frame"
+    },
+    {
+      "icon": "💀",
+      "slug": "google-notifier",
+      "name": "Google Notifier",
+      "description": "Killed about 7 years ago, Google Notifier alerted users to new emails on their Gmail account. It was about 9 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "bump!",
+      "name": "Bump!",
+      "description": "Killed about 7 years ago, Bump! is a discontinued iOS and Android mobile app that enables smartphone users to transfer contact information, photos and files between devices. It was almost 5 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-offers",
+      "name": "Google Offers",
+      "description": "Killed about 7 years ago, Google Offers was a service offering discounts and coupons. Initially, it was a deal of the day website similar to Groupon. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-currents",
+      "name": "Google Currents",
+      "description": "Killed over 7 years ago, Google Currents was a social magazine app by google, which was replaced by Google Play Newsstand. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-checkout",
+      "name": "Google Checkout",
+      "description": "Killed over 7 years ago, Google Checkout was an online payment processing service that aimed to simplify the process of paying for online purchases. It was over 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-trader",
+      "name": "Google Trader",
+      "description": "Killed over 7 years ago, Google Trader was a classifieds service run by Google in Ghana, Uganda, Kenya and Nigeria to help customers trade goods and services online. It was almost 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "igoogle",
+      "name": "iGoogle",
+      "description": "Killed over 7 years ago, iGoogle was a customizable Ajax-based start page or personal web portal. It was over 8 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-latitude",
+      "name": "Google Latitude",
+      "description": "Killed over 7 years ago, Google Latitude was a location-aware feature of Google Maps, a successor to an earlier SMS-based service Dodgeball. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-reader",
+      "name": "Google Reader",
+      "description": "Killed over 7 years ago, Google Reader was a RSS/Atom feed aggregator. It was over 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "nexus-q",
+      "name": "Nexus Q",
+      "description": "Killed over 7 years ago, Nexus Q was a digital media player that allowed users with Android devices to stream content from supported services to a connected television or speakers via an integrated amplifier. It was about 1 year old."
+    },
+    {
+      "icon": "💀",
+      "name": "Punchd",
+      "slug": "punchd",
+      "description": "Killed almost 8 years ago, Punchd was a digital loyalty card app and service targeted towards small businesses that originated as a student project at Cal Poly in 2009 and was acquired by Google in 2011. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "building-maker",
+      "name": "Building Maker",
+      "description": "Killed almost 8 years ago, Building Maker enabled users to create 3D models of buildings for Google Earth on the browser. It was over 3 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Talk",
+      "slug": "google-talk",
+      "description": "Killed almost 8 years ago, Often remembered as 'Gchat', Google Talk was a messaging service for both text and voice using XMPP. It was over 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-sms",
+      "name": "Google SMS",
+      "description": "Killed almost 8 years ago, Google SMS let you text questions- including weather, sports scores, word definitions, and more- to 466453 and get an answer back. It was over 8 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Cloud Connect",
+      "slug": "google-cloud-connect",
+      "description": "Killed almost 8 years ago, Google Cloud Connect was a free cloud computing plugin for multiple versions of Microsoft Office that automatically stored and synchronized files to Google Docs. It was about 5 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Picnik",
+      "slug": "picnik",
+      "description": "Killed almost 8 years ago, Picnik was an online photo editing service that allowed users to edit, style, crop, and resize images. It was over 6 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Chart API",
+      "slug": "google-chart-api",
+      "description": "Killed about 8 years ago, Google Chart API was an interactive Web service that created graphical charts from user-supplied data. It was about 5 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed about 8 years ago, Google Mini was a smaller version of the Google Search Appliance. It was about 5 years old.",
+      "name": "Google Mini",
+      "slug": "google-mini"
+    },
+    {
       "slug": "coming-soon",
       "name": "Coming Soon...",
       "description": "More Killed By Google Products coming soon...",
