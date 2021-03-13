@@ -27,7 +27,7 @@
     {
       "slug": "tour-creator",
       "name": "Tour Creator",
-      "description": "best cryptocurrency tools",
+      "description": "Another one bites the dust in 4 months, Tour Creator allowed users to build immersive, 360° guided tours that could be viewed with VR devices. It will be about 3 years old.",
       "icon": "🔪"
     },
     {
@@ -893,6 +893,96 @@
       "description": "Killed about 8 years ago, Google Mini was a smaller version of the Google Search Appliance. It was about 5 years old.",
       "name": "Google Mini",
       "slug": "google-mini"
+    },
+    {
+      "icon": "💀",
+      "slug": "adsense-for-feeds",
+      "name": "AdSense for Feeds",
+      "description": "Killed over 8 years ago, AdSense for Feeds was a RSS-based service for AdSense that allowed publishers to advertise on their RSS Feeds. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Listen",
+      "slug": "google-listen",
+      "description": "Killed over 8 years ago, Google Listen was an Android application that let you search, subscribe, download, and stream podcasts and web audio. It was about 3 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Refine",
+      "slug": "google-refine",
+      "description": "Killed over 8 years ago, Google Refine was a standalone desktop application for data cleanup and transformation to other formats. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Sparrow",
+      "slug": "sparrow",
+      "description": "Killed over 8 years ago, Sparrow was an email client for OS X and iOS. Google acquired and then killed it. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Insights for Search",
+      "slug": "google-insights-for-search",
+      "description": "Killed over 8 years ago, Google Insights for Search was a service used to provide data about terms people searched in Google and was merged into Google Trends. It was about 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "postini",
+      "name": "Postini",
+      "description": "Killed over 8 years ago, Postini was an e-mail, Web security, and archiving service that filtered e-mail spam and malware (before it was delivered to a client's mail server), e-mail archiving. It was about 13 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-video",
+      "name": "Google Video",
+      "description": "Killed over 8 years ago, Google Video was a free video hosting service from Google, similar to YouTube, that allowed video clips to be hosted on Google servers and embedded on to other websites. It was over 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "meebo",
+      "name": "Meebo",
+      "description": "Killed over 8 years ago, Meebo was a browser-based instant messaging application which supported multiple IM services. It was almost 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "needlebase",
+      "name": "Needlebase",
+      "description": "Killed almost 9 years ago, Needlebase was a point-and-click tool for extracting, sorting and visualizing data from across pages around the web. It was about 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "knol",
+      "name": "Knol",
+      "description": "Killed almost 9 years ago, Knol was a Google project that aimed to include user-written articles on a range of topics. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-wave",
+      "name": "Google Wave",
+      "description": "Killed almost 9 years ago, Google Wave was an online communication and collaborative real-time editor tool. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-flu-vaccine-finder",
+      "name": "Google Flu Vaccine Finder",
+      "description": "Killed almost 9 years ago, Google Flu Vaccine Finder was a maps mash-up that showed nearby vaccination places across the United States. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-one-pass",
+      "name": "Google One Pass",
+      "description": "Killed almost 9 years ago, Google One Pass was an online store developed by Google for media publishers looking to sell subscriptions to their content. It was about 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-related",
+      "name": "Google Related",
+      "description": "Killed almost 9 years ago, Google Related was introduced to be an experimental navigation assistant launched to help people find useful and interesting information while surfing the web. It was 8 months old."
+    },
+    {
+      "slug": "urchin",
+      "name": "Urchin",
+      "description": "Killed almost 9 years ago, Urchin was a web statistics analysis program developed by Urchin Software Corporation. It analyzed web server log file content and displayed the traffic information on that website based upon the log data. It was almost 7 years old.",
+      "icon": "💀"
     },
     {
       "slug": "coming-soon",
