@@ -1,7 +1,7 @@
 <template>
   <main>
     <h1>About</h1>
-     <p class="text-justify", "font-weight-medium">Killed by Google. There's a lot of them! By Shreyaan Vashishtha</p>
+     <p class="text-justify">Killed by Google. There's a lot of them! By Shreyaan Vashishtha</p>
     <p class="font-italic">
      KilledByGoogle is an Open-Source Project and can be found on <a href = "https://github.com/ShreyaanVashishtha/NoCodeTemplete"> GitHub.</a>
     </p>
