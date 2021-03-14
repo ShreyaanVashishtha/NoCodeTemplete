@@ -619,5 +619,625 @@
       "url": "https://android-developers.googleblog.com/2018/10/discontinuing-support-for-android.html",
       "icon": "/images/logos/nearby.jpg.webp"
     }
+    {
+      "categories_slugs": [],
+      "name": "Welcome to KilledByGoogle",
+      "description": "Killed by Google. There's a lot of them! By Shreyaan Vashishtha",
+      "url": "https://github.com/sandoche/CuratedStack-nocode-template",
+      "icon": "/images/logos/icon.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Chrome_App",
+      "icon": "/images/logos/256px-google_chrome_icon_-september_2014-.svg.png",
+      "categories_slugs": [
+        "google-chrome-apps"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "url": "https://android-developers.googleblog.com/2019/02/an-update-on-android-things.html",
+      "description": "Read More about this at Android Developers",
+      "icon": "/images/logos/9977.1516073792.png",
+      "categories_slugs": [
+        "android-things"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at ArsTechnica",
+      "url": "https://arstechnica.com/gadgets/2019/01/the-great-google-hangouts-shutdown-begins-october-2019/",
+      "icon": "/images/logos/1024px-hangouts_icon.svg.png",
+      "categories_slugs": [
+        "google-hangouts"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Expeditions",
+      "icon": "/images/logos/unnamed.jpg",
+      "categories_slugs": [
+        "expiditions"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "url": "https://www.theverge.com/2020/11/13/21564279/google-expeditions-vr-cardboard-tours-shutdown-arts-culture-app-migration",
+      "icon": "/images/logos/tour-builder-logo.png",
+      "categories_slugs": [
+        "tour-creator"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Support",
+      "url": "https://support.google.com/poly/answer/10192635",
+      "icon": "/images/logos/mark.jpeg",
+      "categories_slugs": [
+        "poly"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at GitHub",
+      "url": "https://github.com/kellegous/go",
+      "icon": "/images/logos/google-url-shortener.jpg",
+      "categories_slugs": [
+        "google-go-links"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "tilt-brush"
+      ],
+      "description": "Read More about this at Tilt Brush",
+      "url": "https://www.tiltbrush.com/",
+      "icon": "/images/logos/tilt_brush_by_google_lockup_grey.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "url": "https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x",
+      "icon": "/images/logos/978d7e534650201d1e9a70cfa6f8c27c.svg",
+      "categories_slugs": [
+        "loon"
+      ]
+    },
+    {
+      "categories_slugs": [
+        "app-maker"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_App_Maker",
+      "icon": "/images/logos/appmaker-logo.png.webp"
+    },
+    {
+      "categories_slugs": [
+        "google-cloud-print"
+      ],
+      "name": "Read More...",
+      "url": "https://9to5google.com/2019/11/21/google-cloud-print-dead-2020/",
+      "description": "Read More about this at 9to5 Google",
+      "icon": "/images/logos/google_cloud_print_400x400.png"
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "google-home-max"
+      ],
+      "url": "https://9to5google.com/2021/01/26/google-home-max-discontinued/",
+      "description": "Read More about this at 9to5 Google",
+      "icon": "/images/logos/jbau2018_mfwjpg-1536299063572.jpg"
+    },
+    {
+      "categories_slugs": [
+        "science-journal"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Science Journal",
+      "url": "https://sciencejournal.withgoogle.com/",
+      "icon": "/images/logos/scijournal_0.png"
+    },
+    {
+      "categories_slugs": [
+        "trusted-contacts"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at ArsTechnica",
+      "icon": "/images/logos/5c77f2d76123a.png",
+      "url": "https://arstechnica.com/gadgets/2020/10/google-shuts-down-trusted-contacts-its-emergency-location-sharing-app/"
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "google-play-music"
+      ],
+      "url": "https://youtube.googleblog.com/2020/05/youtube-music-transfer-google-play-music-library.html",
+      "description": "Read More about this at YouTube Blog",
+      "icon": "/images/logos/918px-google_play_music_icon_-2016-.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Android Police",
+      "url": "https://www.androidpolice.com/2020/10/19/google-confirms-the-nest-secure-has-been-discontinued/",
+      "icon": "/images/logos/googlenest_logo_horizontal_hex.png",
+      "categories_slugs": [
+        "nest-secure"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "hire-by-google"
+      ],
+      "url": "https://www.theverge.com/2019/8/28/20837004/google-hire-next-tool-shut-down-service-jobs-hiring-recruiting-inbox-allo",
+      "description": "Read More about this at The Verge",
+      "icon": "/images/logos/hire_logo.svg"
+    },
+    {
+      "name": "Read More...",
+      "categories_slugs": [
+        "password-checkup-extension"
+      ],
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2020/07/30/password-checkup-chrome-extension/",
+      "icon": "/images/logos/uploads-2fstory-2fthumbnail-2f90923-2f95970757-b342-4cb4-9ec7-d99e5eb9beaf.png-2f950x534.png"
+    },
+    {
+      "categories_slugs": [
+        "focals-by-north"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Tech Crunch",
+      "url": "https://techcrunch.com/2020/06/30/google-acquires-smart-glasses-company-north-whose-focals-2-0-wont-ship/",
+      "icon": "/images/logos/northlogo.png"
+    },
+    {
+      "url": "https://stackoverflow.com/questions/62453399/google-sceneform-is-it-deprecated-any-replacement",
+      "name": "Read More...",
+      "description": "Read More about this at Stackoverflow",
+      "categories_slugs": [
+        "sceneform-sdk-for-android"
+      ],
+      "icon": "/images/logos/31216907.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Forbes",
+      "url": "https://www.forbes.com/sites/paulmonckton/2020/06/20/google-photos-featue-cancellation-auto-print-selection/#19631af66294",
+      "categories_slugs": [
+        "google-photos-print"
+      ],
+      "icon": "/images/logos/960x0.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Slashgear",
+      "categories_slugs": [
+        "pigeon-transit"
+      ],
+      "url": "https://www.slashgear.com/pigeon-crowdsourced-transit-app-experiment-is-shutting-down-11624401/",
+      "icon": "/images/logos/pigeon-app-logo-300x300.jpg"
+    },
+    {
+      "categories_slugs": [
+        "enhanced-404-pages"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Google Blog",
+      "url": "https://webmasters.googleblog.com/2008/08/make-your-404-pages-more-useful.html",
+      "icon": "/images/logos/404-error-page-templates.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2020/04/28/shoelace-area-120-shutdown/",
+      "icon": "/images/logos/shoelace_logo.png",
+      "categories_slugs": [
+        "shoelace"
+      ]
+    },
+    {
+      "categories_slugs": [
+        "neighbourly"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at The Next Web",
+      "url": "https://thenextweb.com/google/2020/04/02/google-is-shutting-down-its-neighbourly-app/",
+      "icon": "/images/logos/google_neighbourly_app_small_1542779026459.jpg.png"
+    },
+    {
+      "categories_slugs": [
+        "fabric"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Fabric",
+      "url": "https://get.fabric.io/roadmap",
+      "icon": "/images/logos/bluelogo.png"
+    },
+    {
+      "description": "Read More about this at Medium",
+      "name": "Read More...",
+      "url": "https://medium.com/google-design/whats-next-for-material-design-s-theming-tools-f65014ffcce7",
+      "categories_slugs": [
+        "material-theme-editor"
+      ],
+      "icon": "/images/logos/1200px-google_material_design_logo.svg.png"
+    },
+    {
+      "description": "Read More about this at Google Blog",
+      "categories_slugs": [
+        "google-station"
+      ],
+      "url": "https://india.googleblog.com/2020/02/five-years-400-stations-and-thousands.html",
+      "icon": "/images/logos/google-station-logo.jpg",
+      "name": "Read More..."
+    },
+    {
+      "categories_slugs": [
+        "one-today"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Tech Crunch",
+      "url": "https://techcrunch.com/2013/04/18/googles-one-today-app-aims-to-make-charitable-donations-a-more-social-and-frequent-experience/",
+      "icon": "/images/logos/screen-shot-2013-05-27-at-4.01.45-pm.png"
+    },
+    {
+      "categories_slugs": [
+        "androidify"
+      ],
+      "url": "https://9to5google.com/2020/02/06/google-removes-androidify-app/",
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "icon": "/images/logos/568d346fddfbe.png"
+    },
+    {
+      "categories_slugs": [
+        "google-fiber-tv"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "url": "https://www.theverge.com/2020/2/4/21123050/google-fiber-tv-package-removed-internet-service-high-speed",
+      "icon": "/images/logos/fiber.svg"
+    },
+    {
+      "categories_slugs": [
+        "field-trip"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Field_Trip_(application)",
+      "description": "Read More about this at Wikipedia",
+      "name": "Read More...",
+      "icon": "/images/logos/field_trip_logo.jpg"
+    },
+    {
+      "url": "https://de.wikipedia.org/wiki/Google_Correlate",
+      "description": "Read More about this at Wikipedia",
+      "name": "Read More...",
+      "categories_slugs": [
+        "google-correlate"
+      ],
+      "icon": "/images/logos/unknown.png"
+    },
+    {
+      "categories_slugs": [
+        "google-translator-toolkit"
+      ],
+      "url": "https://support.google.com/translatortoolkit/answer/9462068",
+      "name": "Read More...",
+      "description": "Read More about this at Google Support",
+      "icon": "/images/logos/l.jpg"
+    },
+    {
+      "categories_slugs": [
+        "google-fusion-tables"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Fusion_Tables",
+      "description": "Read More about this at Wikipedia",
+      "name": "Read More...",
+      "icon": "/images/logos/google_fusion_tables_logo.png"
+    },
+    {
+      "categories_slugs": [
+        "google-bulletin"
+      ],
+      "url": "https://www.androidpolice.com/2019/09/26/googles-hyperlocal-news-app-bulletin-is-shutting-down/",
+      "description": "Read More about this at Android Police",
+      "name": "Read More...",
+      "icon": "/images/logos/google_bulletin-300x300.jpg"
+    },
+    {
+      "categories_slugs": [
+        "touring-bird"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2019/10/22/google-touring-bird/",
+      "icon": "/images/logos/blgbc9asntjlbmrx4j8j.jpeg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Steam Community",
+      "url": "https://steamcommunity.com/games/929860/announcements/detail/1608276251516057010",
+      "categories_slugs": [
+        "game-builder"
+      ],
+      "icon": "/images/logos/game-builder.jpg"
+    },
+    {
+      "description": "Read More about this at The Next Web",
+      "name": "Read More...",
+      "url": "https://thenextweb.com/google/2019/10/17/googles-datally-app-for-saving-on-mobile-data-is-dead/",
+      "categories_slugs": [
+        "datally"
+      ],
+      "icon": "/images/logos/unnamed.webp"
+    },
+    {
+      "categories_slugs": [
+        "google-clips"
+      ],
+      "name": "Read More...",
+      "url": "https://en.wikipedia.org/wiki/Google_Clips",
+      "description": "Read More about this at Wikipedia",
+      "icon": "/images/logos/google_clips_wordmark.png"
+    },
+    {
+      "categories_slugs": [
+        "google-daydream"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Daydream",
+      "icon": "/images/logos/google_daydream_logo.png"
+    },
+    {
+      "categories_slugs": [
+        "youtube-leanback"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2019/09/16/youtube-leanback-tv-interface-disabled-soon/",
+      "icon": "/images/logos/youtube-new-logo.png"
+    },
+    {
+      "categories_slugs": [
+        "message-center"
+      ],
+      "url": "https://support.google.com/a/answer/9275489",
+      "name": "Read More...",
+      "description": "Read More about this at Google Support",
+      "icon": "/images/logos/409d4122d78cfee37141237bef51a03a.png"
+    },
+    {
+      "categories_slugs": [
+        "follow-your-world"
+      ],
+      "url": "https://maps.googleblog.com/2011/01/sign-up-for-imagery-update-alert.html",
+      "name": "Read More…",
+      "description": "Read More about this at Google Blog",
+      "icon": "/images/logos/profile-13042-15964846925088897695.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Web Archive",
+      "url": "https://web.archive.org/web/20190929005809/https://support.google.com/a/answer/7039472",
+      "icon": "/images/logos/357-3574142_g-suite-training-logo-hd-png-download.png",
+      "categories_slugs": [
+        "g-suite-training"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2019/08/20/youtube-killing-messages",
+      "icon": "/images/logos/stock-video-animation-of-youtube-social-media-website-logo-app-icon-popup-notification-message.jpg",
+      "categories_slugs": [
+        "youtube-messages"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2019/08/26/youtube-nintendo-3ds-app-shut-down/",
+      "categories_slugs": [
+        "youtube-for-nintendo-3ds"
+      ],
+      "icon": "/images/logos/nintendo_3ds_youtube_1.jpg.webp"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Nest",
+      "url": "https://nest.com/works-with-nest/",
+      "icon": "/images/logos/google_works-qw-th-nest-logo.png",
+      "categories_slugs": [
+        "works-with-nest-api"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "url": "https://en.wikipedia.org/wiki/Google_Trips",
+      "description": "Read More about this at Wikipedia",
+      "icon": "/images/logos/1024px-google_trips_logo.svg.png",
+      "categories_slugs": [
+        "google-trips"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at ArsTechnica",
+      "categories_slugs": [
+        "hangouts-on-air"
+      ],
+      "url": "https://arstechnica.com/gadgets/2019/06/google-is-killing-youtubes-hangouts-on-air-this-year/",
+      "icon": "/images/logos/hangouts-on-air-logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dragonfly_(search_engine)",
+      "categories_slugs": [
+        "dragonfly"
+      ],
+      "icon": "/images/logos/google-dragonfly_0-10.png.webp"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Google_Jump",
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "google-jump"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2019/07/15/google-kills-blog-compass/",
+      "categories_slugs": [
+        "blog-compass"
+      ],
+      "icon": "/images/logos/google-blog-compass.jpeg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Tech Crunch",
+      "url": "https://techcrunch.com/2017/04/13/google-areo-is-a-new-app-for-ordering-food-or-home-services-in-india/",
+      "categories_slugs": [
+        "areo"
+      ],
+      "icon": "/images/logos/google-areo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Android Police",
+      "url": "https://www.androidpolice.com/2018/09/18/youtube-gaming-standalone-app-shut-march-2019-features-migrate-main-app/",
+      "icon": "/images/logos/flat-750x-075-f-pad-750x1000-f8f8f8.u3.jpg",
+      "categories_slugs": [
+        "youtube-gaming"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Cloud_Messaging",
+      "categories_slugs": [
+        "google-cloud-messaging"
+      ],
+      "icon": "/images/logos/preview.png"
+    },
+    {
+      "categories_slugs": [
+        "data-saver-extension-for-chrome"
+      ],
+      "name": "Read More...",
+      "description": "Read More about this at Chromium Blog",
+      "url": "https://blog.chromium.org/2019/04/data-saver-is-now-lite-mode.html",
+      "icon": "/images/logos/256px-google_chrome_icon_-september_2014-.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inbox_by_Gmail",
+      "categories_slugs": [
+        "inbox-by-gmail"
+      ],
+      "icon": "/images/logos/google_inbox_by_gmail_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google%2B",
+      "icon": "/images/logos/google-logo-71a6ae6011-seeklogo.com.png",
+      "categories_slugs": [
+        "google+"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_URL_Shortener",
+      "icon": "/images/logos/google_url_shortener_logo.png",
+      "categories_slugs": [
+        "google-url-shortener"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Variety",
+      "url": "https://variety.com/2019/digital/news/google-spotlight-stories-shutting-down-1203163117/",
+      "categories_slugs": [
+        "google-spotlight-stories"
+      ],
+      "icon": "/images/logos/logo-spotlight-stories-alt.png"
+    },
+    {
+      "categories_slugs": [
+        "google-allo"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Allo",
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "icon": "/images/logos/google_allo_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Engadget",
+      "url": "https://www.engadget.com/2019/02/06/google-is-killing-its-notifications-widget/",
+      "icon": "/images/logos/google-notification-widget-disappearing.png",
+      "categories_slugs": [
+        "google-notification-widget"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "categories_slugs": [
+        "youtube-video-annotations"
+      ],
+      "icon": "/images/logos/youtube-will-remove-all-video-annotations-on-jan-15_efcp.jpg",
+      "url": "https://www.theverge.com/2018/11/27/18114581/youtube-annotations-discontinued-january-2019"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Developers",
+      "categories_slugs": [
+        "google-realtime-api"
+      ],
+      "url": "https://developers.google.com/realtime/overview",
+      "icon": "/images/logos/lt.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chromecast#Chromecast_Audio",
+      "categories_slugs": [
+        "chromecast-audio"
+      ],
+      "icon": "/images/logos/chromecast-logo-audio-gray.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Search_Appliance",
+      "categories_slugs": [
+        "google-search-appliance"
+      ],
+      "icon": "/images/logos/google-search-appliance-replacement.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Android Developers",
+      "categories_slugs": [
+        "google-nearby-notifications"
+      ],
+      "url": "https://android-developers.googleblog.com/2018/10/discontinuing-support-for-android.html",
+      "icon": "/images/logos/nearby.jpg.webp"
+    }
+  ]
   ]
 }
