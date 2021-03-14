@@ -1,11 +1,7 @@
 <template>
   <main>
     <h1>About</h1>
-    <NuxtLink to="/about">
-    <bold-text
-     Killed by Google. There's a lot of them! By Shreyaan Vashishtha
-    />
-    </NuxtLink>
+     <h2>Killed by Google. There's a lot of them! By Shreyaan Vashishtha</h2>
     <a href="https://nuxtjs.org">External Link to another page</a>
     
     <style lang="scss" scoped>
