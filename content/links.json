@@ -762,6 +762,141 @@
         "glass-os"
       ],
       "icon": "/images/logos/glass-os.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Map_Maker",
+      "categories_slugs": [
+        "google-map-maker"
+      ],
+      "icon": "/images/logos/google_map_maker_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chromebook_Pixel",
+      "categories_slugs": [
+        "chromebook-pixel"
+      ],
+      "icon": "/images/logos/chromebook-pixel.jpeg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "google-spaces"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Spaces_(service)",
+      "icon": "/images/logos/page1-1200px-spaces_logo_2019.pdf.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Slash Gear",
+      "url": "https://www.slashgear.com/google-shutting-down-hands-free-next-week-02473609/",
+      "categories_slugs": [
+        "google-hands-free"
+      ],
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Gesture_Search",
+      "categories_slugs": [
+        "gesture-search"
+      ],
+      "icon": "/images/logos/google_gesture_search_-logo-.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Panoramio",
+      "categories_slugs": [
+        "panoramio"
+      ],
+      "icon": "/images/logos/1280px-panoramio_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this Tech Crunch",
+      "url": "https://techcrunch.com/2016/11/07/google-quietly-shutters-standalone-google-showtimes-movie-site/",
+      "categories_slugs": [
+        "google-showtimes"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this Tech Crunch",
+      "url": "https://techcrunch.com/2015/07/21/google-acquires-mobile-app-prototyping-tool-pixate/",
+      "icon": "/images/logos/pixate.png",
+      "categories_slugs": [
+        "pixate"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Nexus",
+      "categories_slugs": [
+        "google-nexus"
+      ],
+      "icon": "/images/logos/google-nexus.svg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this Web Archive",
+      "categories_slugs": [
+        "together"
+      ],
+      "url": "http://web.archive.org/web/20160417063132/https://www.android.com/wear/together/",
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Project_Ara",
+      "categories_slugs": [
+        "project-ara"
+      ],
+      "icon": "/images/logos/1280px-project_ara_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this G Suite Developers",
+      "url": "https://gsuite-developers.googleblog.com/2015/08/deprecating-web-hosting-support-in.html",
+      "categories_slugs": [
+        "web-hosting-in-google-drive"
+      ],
+      "icon": "/images/logos/google_drive_logo_3963-1.png.webp"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Swiffy",
+      "categories_slugs": [
+        "google-swiffy"
+      ],
+      "icon": "/images/logos/googleswify.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this Android Authority",
+      "url": "https://www.androidauthority.com/google-wallet-cards-stop-working-june-30-683270/",
+      "categories_slugs": [
+        "google-wallet-card"
+      ],
+      "icon": "/images/logos/950px-google_wallet_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nexus_Player",
+      "categories_slugs": [
+        "nexus-player"
+      ],
+      "icon": "/images/logos/fig_logo.gif"
     }
   ]
 }
