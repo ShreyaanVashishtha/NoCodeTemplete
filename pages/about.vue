@@ -1,9 +1,10 @@
 <template>
   <main>
-    <Title = "About"/>
-    <h1>Home page</h1>
+    <h1>About</h1>
     <NuxtLink to="/about">
-      About (internal link that belongs to the Nuxt App)
+    <bold-text
+     Killed by Google. There's a lot of them! By Shreyaan Vashishtha
+    />
     </NuxtLink>
     <a href="https://nuxtjs.org">External Link to another page</a>
     
