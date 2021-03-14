@@ -985,10 +985,370 @@
       "icon": "💀"
     },
     {
-      "slug": "coming-soon",
-      "name": "Coming Soon...",
-      "description": "More Killed By Google Products coming soon...",
-      "icon": "🎉"
+      "icon": "💀",
+      "name": "Slide",
+      "slug": "slide",
+      "description": "Killed about 9 years ago, Slide was a photo sharing software for social networking services such as MySpace and Facebook. Later Slide began to make applications and became the largest developer of third-party applications for Facebook. It was almost 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-friend-connect",
+      "name": "Google Friend Connect",
+      "description": "Killed about 9 years ago, Google Friend Connect was a free social networking site from 2008 to 2012. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Jaiku",
+      "slug": "jaiku",
+      "description": "Killed about 9 years ago, Jaiku was a social networking, micro-blogging and lifestreaming service comparable to Twitter. It was almost 6 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-code-search",
+      "name": "Google Code Search",
+      "description": "Killed about 9 years ago, Google Code Search was a free beta product which allowed users to search for open-source code on the Internet. It was over 5 years old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed about 9 years ago, Google Health was a personal health information centralization service that provided users a merged health record from multiple sources. It was over 3 years old.",
+      "slug": "google-health",
+      "name": "Google Health"
+    },
+    {
+      "icon": "💀",
+      "slug": "noop-programming-language",
+      "name": "Noop Programming Language",
+      "description": "Killed about 9 years ago, Noop was a project by Google engineers Alex Eagle and Christian Gruber aiming to develop a new programming language that attempted to blend the best features of 'old' and 'new' languages and best-practices. It was almost 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "apture",
+      "name": "Apture",
+      "description": "Killed about 9 years ago, Apture was a service that allowed publishers and bloggers to link and incorporate multimedia into a dynamic layer above their pages. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Buzz",
+      "slug": "google-buzz",
+      "description": "Killed about 9 years ago, Google Buzz was a social networking, microblogging and messaging tool that integrated with Gmail. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "gears",
+      "name": "Gears",
+      "description": "Killed over 9 years ago, Gears (aka Google Gears) was utility software that aimed to create more powerful web apps by adding offline storage and other additional features to web browsers. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-notebook",
+      "name": "Google Notebook",
+      "description": "Killed over 9 years ago, Google Notebook allowed users to save and organize clips of information while conducting research online. It was over 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "zygotebody",
+      "name": "ZygoteBody",
+      "description": "Killed over 9 years ago, ZygoteBody, formerly Google Body, is a web application by Zygote Media Group that renders manipulable 3D anatomical models of the human body. It was 10 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-powermeter",
+      "name": "Google PowerMeter",
+      "description": "Killed over 9 years ago, Google PowerMeter was a software project of Google's philanthropic arm that helped consumers track their home electricity usage. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-squared",
+      "name": "Google Squared",
+      "description": "Killed over 9 years ago, Google Squared was an information extraction and relationship extraction product that compiled structured data into a spreadsheet-like format. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-sidewiki",
+      "name": "Google Sidewiki",
+      "description": "Killed over 9 years ago, Google Sidewiki was a browser sidebar tool that allowed users to contribute information to any web page. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "aardvark",
+      "name": "Aardvark",
+      "description": "Killed over 9 years ago, Aardvark was a social search service that connected users live with friends or friends-of-friends who were able to answer their questions. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-pack",
+      "name": "Google Pack",
+      "description": "Killed over 9 years ago, Google Pack was a collection of software tools offered by Google to download in a single archive. It was announced at the 2006 Consumer Electronics Show, on January 6. Google Pack was only available for Windows XP, Windows Vista, and Windows 7. It was over 5 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-desktop",
+      "name": "Google Desktop",
+      "description": "Killed over 9 years ago, Google Desktop allowed local searches of a user's emails, computer files, music, photos, chats and Web pages viewed. It was over 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-fast-flip",
+      "name": "Google Fast Flip",
+      "description": "Killed over 9 years ago, Google Fast Flip was an online news aggregator, something of a high tech microfiche. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-dictionary",
+      "name": "Google Dictionary",
+      "description": "Killed over 9 years ago, Google Dictionary was a standalone online dictionary service. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-labs",
+      "name": "Google Labs",
+      "description": "Killed over 9 years ago, Google Labs was a technology playground used by Google to demonstrate and test new projects. It was about 9 years old."
+    },
+    {
+      "slug": "google-rebang",
+      "name": "Google Rebang",
+      "description": "Killed over 9 years ago, Rebang was a Zeitgeist-like service centered on providing service to a Chinese audience. It was incorporated into Google Labs as of late 2010, and later discontinued along with its parent project. It was over 4 years old.",
+      "icon": "💀"
+    },
+    {
+      "icon": "💀",
+      "slug": "google-directory",
+      "name": "Google Directory",
+      "description": "Killed over 9 years ago, Google Directory was an Internet website directory organized into 14 main categories that allowed users to explore the web. It was over 11 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-image-swirl",
+      "name": "Google Image Swirl",
+      "description": "Killed over 9 years ago, Google Image Swirl was an enhancement to the image search tool that came out of Google Labs. It built on top of image search by grouping images with similar visual and semantic qualities. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-real-time-search",
+      "name": "Google Real-Time Search",
+      "description": "Killed over 9 years ago, Google Real-Time Search provided live search results from Twitter, Facebook, and news websites. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-script-converter",
+      "name": "Google Script Converter",
+      "description": "Killed over 9 years ago, Google Script Converter was an online transliteration tool for transliteration (script conversion) between Hindi, Romanagari and various other scripts. It's ended because Google shut down Google Labs and all associated projects. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-sets",
+      "name": "Google Sets",
+      "description": "Killed over 9 years ago, Google Sets generates a list of items when users enter a few examples. For example, entering \"Green, Purple, Red\" emits the list \"Green, Purple, Red, Blue, Black, White, Yellow, Orange, Brown\". It was about 9 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-specialized-search",
+      "name": "Google Specialized Search",
+      "description": "Killed almost 10 years ago, Google Specialized Search allowed users to search across a limited index of the web for specialised topics like Linux, Microsoft, and 'Uncle Sam.' It was over 13 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-hotpot",
+      "name": "Google Hotpot",
+      "description": "Killed almost 10 years ago, Google Hotpot was a local recommendation engine that allowed people to rate restaurants, hotels, etc. and share them with friends. It was 5 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "gizmo5",
+      "name": "Gizmo5",
+      "description": "Killed almost 10 years ago, Gizmo5 was a VOIP communications network and a proprietary freeware soft phone for that network. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "real-estate-on-google-maps",
+      "name": "Real Estate On Google Maps",
+      "description": "Killed about 10 years ago, Real Estate on Google Maps enabled users to find places for sale or rent in an area they were interested in. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "fflick",
+      "name": "fflick",
+      "description": "Killed about 10 years ago, fflick was a review, information, and news website that used information from aggregated Tweets to rate movies as positive or negative. It was 6 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-base",
+      "name": "Google Base",
+      "description": "Killed about 10 years ago, Google Base was a database provided by Google into which any user can add almost any type of content, such as text, images, and structured information. It was about 5 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "GOOG-411",
+      "name": "GOOG-411",
+      "description": "Killed over 10 years ago, GOOG-411 (or Google Voice Local Search) was a telephone service that provided a speech-recognition-based business directory search. It was over 3 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "bumptop",
+      "name": "BumpTop",
+      "description": "Killed almost 11 years ago, BumpTop was a skeuomorphic desktop environment app that simulates the normal behavior and physical properties of a real-world desk and enhances it with automatic tools to organize its contents. It was about 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-searchwiki",
+      "name": "Google SearchWiki",
+      "description": "Killed about 11 years ago, SearchWiki was a Google Search feature which allowed logged-in users to annotate and re-order search results. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "marratech-e-meetings",
+      "name": "Marratech e-meetings",
+      "description": "Killed about 11 years ago, Marratech was a Swedish company that made software for e-meetings (e.g., web conferencing, videoconferencing). It was about 11 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-web-apis",
+      "name": "Google Web APIs",
+      "description": "Killed over 11 years ago, The Google Web APIs were a free SOAP service for doing Google searches so that developers could use the results in almost any way they wanted. It was over 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-ride-finder",
+      "name": "Google Ride Finder",
+      "description": "Killed over 11 years ago, Google Ride Finder was a service that used GPS data to pinpoint and map the location of taxis, limos, and shuttle vehicles available for hire in 10 U.S. metro areas. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-toolbar-for-firefox",
+      "name": "Google Toolbar for Firefox",
+      "description": "Killed over 11 years ago, Google Toolbar for Firefox It was about 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-radio-automation",
+      "name": "Google Radio Automation",
+      "description": "Killed over 11 years ago, Google Radio Automation was a hardware and software service used by radio operators to automate song playing among other radio station functions. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "on2-flix-cloud",
+      "name": "On2 Flix Cloud",
+      "description": "Killed over 11 years ago, Flix Cloud was a high-capacity online video encoding service. It was 9 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-mashup-editor",
+      "name": "Google Mashup Editor",
+      "description": "Killed over 11 years ago, Google Mashup Editor was an online web mashup creation service with publishing, syntax highlighting, and debugging. It was about 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-shared-stuff",
+      "name": "Google Shared Stuff",
+      "description": "Killed almost 12 years ago, Google Shared Stuff was a web page sharing system that allowed users to bookmark pages and share it. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "grand-central",
+      "name": "Grand Central",
+      "description": "Killed about 12 years ago, Grand Central was a Voice over IP service that was acquired by Google, and turned into Google Voice. It was about 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "dodgeball",
+      "name": "Dodgeball",
+      "description": "Killed about 12 years ago, Dodgeball was a location-based social network where users texted their location to the service, and it notified them of friends and points of interest nearby. It was over 5 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-audio-ads",
+      "name": "Google Audio Ads",
+      "description": "Killed about 12 years ago, Google Audio Ads service allowed advertisers to run campaigns on AM/FM radio stations in US using the AdWords interface. It was 7 months old."
+    },
+    {
+      "icon": "💀",
+      "description": "Killed about 12 years ago, Google Lively was a web-based virtual environment that provided a new way to access information. It was 6 months old.",
+      "slug": "google-lively",
+      "name": "Google Lively"
+    },
+    {
+      "icon": "💀",
+      "slug": "searchmash",
+      "name": "SearchMash",
+      "description": "Killed over 12 years ago, SearchMash was an experimental, non-branded search engine that Google used to be able to play around with new search technologies, concepts and interfaces. It was about 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-page-creator",
+      "name": "Google Page Creator",
+      "description": "Killed over 12 years ago, Google Page Creator was a website creation and hosting service that allowed users to build basic websites with no HTML knowledge. It was about 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "send-to-phone",
+      "name": "Send to Phone",
+      "description": "Killed over 12 years ago, Google Send to Phone was an add-on to send links and other information from Firefox to their phone by text message. It was almost 2 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Browser Sync",
+      "slug": "google-browser-sync",
+      "description": "Killed over 12 years ago, Google Browser Sync was a Firefox extension that synced information like passwords and browsing history. It was about 2 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Hello",
+      "slug": "hello",
+      "description": "Killed almost 13 years ago, Hello was a service by Picasa that let users share pictures \"like you're sitting side-by-side.\" It was almost 6 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-web-accelerator",
+      "name": "Google Web Accelerator",
+      "description": "Killed about 13 years ago, Google Web Accelerator was a client-side software that increased the load speed of web pages. It was over 2 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "zeitgeist",
+      "name": "Zeitgeist",
+      "description": "Killed about 13 years ago, Google Zeitgeist was a weekly, monthly, and yearly snapshot in time of what people were searching for on Google all over the world. It was almost 7 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-click-to-call",
+      "name": "Google Click-to-Call",
+      "description": "Killed over 13 years ago, Google Click-to-Call allowed a user to speak directly over the phone to businesses found in search results. It was almost 4 years old."
+    },
+    {
+      "icon": "💀",
+      "name": "Google Video Player",
+      "slug": "google-video-player",
+      "description": "Killed over 13 years ago, The Google Video Player plays back files in Google's own Google Video File (.gvi) media format and supported playlists in 'Google Video Pointer' (.gvp) format. It was 12 months old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-video-marketplace",
+      "name": "Google Video Marketplace",
+      "description": "Killed over 13 years ago, Google Video Marketplace was a service that included a store where videos could be bought and rented. It was over 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-answers",
+      "name": "Google Answers",
+      "description": "Killed over 14 years ago, Google Answers was an online knowledge market. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "writely",
+      "name": "Writely",
+      "description": "Killed over 14 years ago, Writely was a Web-based word processor. It was about 1 year old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-public-service-search",
+      "name": "Google Public Service Search",
+      "description": "Killed over 14 years ago, Google Public Service Search provided governmental, non-profit and academic organizational search results without ads. It was over 4 years old."
+    },
+    {
+      "icon": "💀",
+      "slug": "google-seskbar",
+      "name": "Google Deskbar",
+      "description": "Killed almost 15 years ago, Google Deskbar was a small inset window on the Windows toolbar and allowed users to perform searches without leaving the desktop. It was over 2 years old."
     }
   ]
 }
