@@ -618,6 +618,150 @@
       ],
       "url": "https://android-developers.googleblog.com/2018/10/discontinuing-support-for-android.html",
       "icon": "/images/logos/nearby.jpg.webp"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "google-news-&-weather"
+      ],
+      "icon": "/images/logos/google_news_logo.svg",
+      "url": "https://en.wikipedia.org/wiki/Google_News_%26_Weather"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "reply"
+      ],
+      "icon": "/images/logos/1200px-logo_reply.svg.png",
+      "url": "https://en.wikipedia.org/wiki/Reply_(Google)"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tez_(software)",
+      "categories_slugs": [
+        "tez"
+      ],
+      "icon": "/images/logos/tez_app_icon.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Goggles",
+      "categories_slugs": [
+        "google-goggles"
+      ],
+      "icon": "/images/logos/google-goggles-logo.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at 9to5 Google",
+      "url": "https://9to5google.com/2018/07/22/google-kills-save-to-google-chrome-material-theme/",
+      "categories_slugs": [
+        "save-to-google-chrome-extension"
+      ],
+      "icon": "/images/logos/chrome-remote-desktop-blue-background-100840209-large.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Play_Newsstand",
+      "categories_slugs": [
+        "google-play-newsstand"
+      ],
+      "icon": "/images/logos/google_play_newsstand_logo.svg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Search#Dedicated_encrypted_search_page",
+      "categories_slugs": [
+        "encrypted-search"
+      ],
+      "icon": "/images/logos/picture-1.png.webp"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Developers",
+      "categories_slugs": [
+        "qpx-express-api"
+      ],
+      "url": "https://developers.google.com/qpx-express/",
+      "icon": "/images/logos/unnamed.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Enterprise",
+      "url": "https://enterprise.google.com/search/products/gss.html",
+      "categories_slugs": [
+        "google-site-search"
+      ],
+      "icon": "/images/logos/google-site-search-logo.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at GitHub",
+      "categories_slugs": [
+        "reCAPTCHA-mailhide"
+      ],
+      "icon": "/images/logos/4d804b80-7e39-11e9-82fe-07761d844a8c.png",
+      "url": "https://github.com/google/recaptcha/issues/221#issuecomment-409586455"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Github",
+      "categories_slugs": [
+        "soundStage"
+      ],
+      "url": "https://github.com/googlearchive/soundstagevr",
+      "icon": "/images/logos/t.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "project-tango"
+      ],
+      "icon": "/images/logos/1280px-project_tango_logo_-remake_in_svg-.svg.png",
+      "url": "https://en.wikipedia.org/wiki/Tango_(platform)"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Finance",
+      "categories_slugs": [
+        "google-portfolios"
+      ],
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Mashable",
+      "categories_slugs": [
+        "youtube-video-editor"
+      ],
+      "icon": "/images/logos/11f82910-647e-4388-b8f7-3ee9209fa9c6.webp",
+      "url": "https://mashable.com/2017/07/23/youtube-kills-video-editor-tool/"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trendalyzer",
+      "categories_slugs": [
+        "trendalyzer"
+      ],
+      "icon": "/images/logos/gamqqrcu_400x400.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Glass_OS",
+      "categories_slugs": [
+        "glass-os"
+      ],
+      "icon": "/images/logos/glass-os.jpg"
     }
   ]
 }
