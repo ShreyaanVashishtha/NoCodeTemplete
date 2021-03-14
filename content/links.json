@@ -555,6 +555,69 @@
         "google-spotlight-stories"
       ],
       "icon": "/images/logos/logo-spotlight-stories-alt.png"
+    },
+    {
+      "categories_slugs": [
+        "google-allo"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Allo",
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "icon": "/images/logos/google_allo_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Engadget",
+      "url": "https://www.engadget.com/2019/02/06/google-is-killing-its-notifications-widget/",
+      "icon": "/images/logos/google-notification-widget-disappearing.png",
+      "categories_slugs": [
+        "google-notification-widget"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "categories_slugs": [
+        "youtube-video-annotations"
+      ],
+      "icon": "/images/logos/youtube-will-remove-all-video-annotations-on-jan-15_efcp.jpg",
+      "url": "https://www.theverge.com/2018/11/27/18114581/youtube-annotations-discontinued-january-2019"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Developers",
+      "categories_slugs": [
+        "google-realtime-api"
+      ],
+      "url": "https://developers.google.com/realtime/overview",
+      "icon": "/images/logos/lt.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chromecast#Chromecast_Audio",
+      "categories_slugs": [
+        "chromecast-audio"
+      ],
+      "icon": "/images/logos/chromecast-logo-audio-gray.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Search_Appliance",
+      "categories_slugs": [
+        "google-search-appliance"
+      ],
+      "icon": "/images/logos/google-search-appliance-replacement.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Android Developers",
+      "categories_slugs": [
+        "google-nearby-notifications"
+      ],
+      "url": "https://android-developers.googleblog.com/2018/10/discontinuing-support-for-android.html",
+      "icon": "/images/logos/nearby.jpg.webp"
     }
   ]
 }
