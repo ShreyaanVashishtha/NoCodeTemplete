@@ -5,6 +5,14 @@
     <p class="font-italic">
      KilledByGoogle is an Open-Source Project and can be found on <a href = "https://github.com/ShreyaanVashishtha/NoCodeTemplete"> GitHub.</a>
     </p>
-    <a href="https://nuxtjs.org">External Link to another page</a>
+    <v-btn
+  color="primary"
+  elevation="16"
+  large
+  medium
+  small
+  x-large
+  x-small
+>Home Page</v-btn>
    </main>
 </template>
