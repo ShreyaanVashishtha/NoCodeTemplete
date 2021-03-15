@@ -1527,6 +1527,96 @@
         "google-health"
       ],
       "icon": "/images/logos/oshhf5t5_400x400.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Noop",
+      "categories_slugs": [
+        "noop-programming-language"
+      ],
+      "icon": "/images/logos/logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Huffington Post",
+      "url": "https://www.huffingtonpost.com/rory-oconnor/apture-web-30-is-now_b_161608.html",
+      "categories_slugs": [
+        "apture"
+      ],
+      "icon": "/images/logos/0433e9d99e5805c643ee3b552e4bd745.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Buzz",
+      "categories_slugs": [
+        "google-buzz"
+      ],
+      "icon": "/images/logos/google-buzz-500-medium1.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gears_(software)",
+      "categories_slugs": [
+        "gear"
+      ],
+      "icon": "/images/logos/gearslogo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Notebook",
+      "categories_slugs": [
+        "google-notebook"
+      ],
+      "icon": "/images/logos/notebook_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ZygoteBody",
+      "categories_slugs": [
+        "zygotebody"
+      ],
+      "icon": "/images/logos/zygote_logo-e1452614723943.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_PowerMeter",
+      "categories_slugs": [
+        "google-powermeter"
+      ],
+      "icon": "/images/logos/google_powermeter_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Squared",
+      "categories_slugs": [
+        "google-squared"
+      ],
+      "icon": "/images/logos/google_squared_logo.png.webp"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Sidewiki",
+      "categories_slugs": [
+        "google-sidewiki"
+      ],
+      "icon": "/images/logos/sidewiki_logo2.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aardvark_(search_engine)",
+      "categories_slugs": [
+        "aardvark"
+      ],
+      "icon": "/images/logos/aardvark_logo_black.png"
     }
   ]
 }
