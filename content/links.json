@@ -1278,12 +1278,30 @@
     },
     {
       "name": "Read More...",
-      "description": "Read More about this at Wikipedia",
+      "description": "Read More about this at Punchd",
       "url": "http://getpunchd.com/",
       "categories_slugs": [
         "punchd"
       ],
       "icon": "/images/logos/punchd_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Blog",
+      "url": "https://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html",
+      "categories_slugs": [
+        "building-maker"
+      ],
+      "icon": "/images/logos/large_thumbnail.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Talk",
+      "categories_slugs": [
+        "google-talk"
+      ],
+      "icon": "/images/logos/google-talk-vector-logo.png"
     }
   ]
 }
