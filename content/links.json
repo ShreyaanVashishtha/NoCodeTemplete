@@ -1122,6 +1122,96 @@
         "google-tv"
       ],
       "icon": "/images/logos/google-tv-logo.png"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Quickoffice",
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "icon": "/images/logos/quickoffice-logo-100353112-large.jpg",
+      "categories_slugs": [
+        "quickoffice"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Questions_and_Answers",
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png",
+      "categories_slugs": [
+        "google-questions-and-answers"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wildfire_Interactive",
+      "icon": "/images/logos/vertical_wildfire_logo.jpg",
+      "categories_slugs": [
+        "wildfire-interactive"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BufferBox",
+      "icon": "/images/logos/ee67eef7612a7c17c5bee3ecaac63ce0.jpg.png",
+      "categories_slugs": [
+        "bufferbox"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SlickLogin",
+      "icon": "/images/logos/ycakzaj1nl85nmlkfwew.png",
+      "categories_slugs": [
+        "slicklogin"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Schemer",
+      "icon": "/images/logos/schemer-85491089.jpg",
+      "categories_slugs": [
+        "google-scheme"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Chrome_Frame",
+      "icon": "/images/logos/chrome-logo.png",
+      "categories_slugs": [
+        "google-chrome-frame"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at The Verge",
+      "url": "https://www.theverge.com/2014/1/16/5316748/google-quietly-kills-off-its-notifier-service-for-mail-and-calendar",
+      "icon": "/images/logos/unnamed.gif",
+      "categories_slugs": [
+        "google-notifier"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bump_(application)",
+      "icon": "/images/logos/220px-bump_app_logo.jpg",
+      "categories_slugs": [
+        "bump!"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Offers",
+      "icon": "/images/logos/google_offers_logo.png",
+      "categories_slugs": [
+        "google-offers"
+      ]
     }
   ]
 }
