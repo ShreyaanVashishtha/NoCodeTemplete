@@ -1437,6 +1437,96 @@
         "knol"
       ],
       "icon": "/images/logos/2.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Wave",
+      "categories_slugs": [
+        "google-wave"
+      ],
+      "icon": "/images/logos/oog-png.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Blog",
+      "url": "https://googleblog.blogspot.com/2012/04/spring-cleaning-in-spring.html",
+      "categories_slugs": [
+        "google-flu-vaccine-finder"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_One_Pass",
+      "categories_slugs": [
+        "google-one-pass"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Blog",
+      "url": "https://googleblog.blogspot.com/2012/04/spring-cleaning-in-spring.html",
+      "categories_slugs": [
+        "google-related"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Urchin_(software)",
+      "categories_slugs": [
+        "urchin"
+      ],
+      "icon": "/images/logos/b6ed7nhtjzc11uywjywm.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slide.com",
+      "categories_slugs": [
+        "slide"
+      ],
+      "icon": "/images/logos/slide.com_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Friend_Connect",
+      "categories_slugs": [
+        "google-friend-connect"
+      ],
+      "icon": "/images/logos/google_fc_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jaiku",
+      "categories_slugs": [
+        "jaiku"
+      ],
+      "icon": "/images/logos/jaiku_green_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Code_Search",
+      "categories_slugs": [
+        "google-code-search"
+      ],
+      "icon": "/images/logos/google_code_search.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Health",
+      "categories_slugs": [
+        "google-health"
+      ],
+      "icon": "/images/logos/oshhf5t5_400x400.jpg"
     }
   ]
 }
