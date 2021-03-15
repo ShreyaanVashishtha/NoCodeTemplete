@@ -897,6 +897,96 @@
         "nexus-player"
       ],
       "icon": "/images/logos/fig_logo.gif"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Z Net",
+      "url": "https://www.zdnet.com/article/revolv-is-dead-google-killed-it-long-live-innovation/",
+      "icon": "/images/logos/screen-shot-2019-07-25-at-5.23.16-pm.png",
+      "categories_slugs": [
+        "revolv"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Freebase",
+      "categories_slugs": [
+        "freebase"
+      ],
+      "icon": "/images/logos/1200px-freebase_logo_optimised.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Now",
+      "icon": "/images/logos/google_now_logo.webp",
+      "categories_slugs": [
+        "google-now"
+      ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MyTracks",
+      "categories_slugs": [
+        "mytracks"
+      ],
+      "icon": "/images/logos/google_mytracks_2.0_logo-_android_application-_nov_2012.jpg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Weave",
+      "url": "https://weave.googlesource.com/weave/libweave/+log/master/third_party/libuweave",
+      "categories_slugs": [
+        "uweave"
+      ],
+      "icon": "/images/logos/ow-logo-weave.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Gadgets Now",
+      "url": "https://www.gadgetsnow.com/year-in-review-2016/Google-Compare/yearendershow2016/55617272.cms",
+      "categories_slugs": [
+        "google-compare"
+      ],
+      "icon": "/images/logos/attachment_55841776.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Pie",
+      "url": "https://www.pie.co/",
+      "categories_slugs": [
+        "pie"
+      ],
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Mango Map",
+      "url": "https://mangomap.com/blog/the-end-of-google-maps-engine-causes-mass-confusion/",
+      "categories_slugs": [
+        "google-maps-engine"
+      ],
+      "icon": "/images/logos/google-maps-engine-logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Songza",
+      "categories_slugs": [
+        "songza"
+      ],
+      "icon": "/images/logos/songza_logo.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "google-code"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Developers#Google_Code",
+      "icon": "/images/logos/developers.png"
     }
   ]
 }
