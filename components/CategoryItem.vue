@@ -50,7 +50,7 @@ export default {
 
   &:hover {
     transform: translateX(0) translateY(-8px) translateZ(0);
-    box-shadow: 0 12px 24px rgba(32, 43, 54, 0.12);
+    box-shadow: 0 15px 30px rgba(32, 43, 54, 0.12);
   }
 }
 
