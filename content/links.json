@@ -1617,6 +1617,96 @@
         "aardvark"
       ],
       "icon": "/images/logos/aardvark_logo_black.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Pack",
+      "categories_slugs": [
+        "google-pack"
+      ],
+      "icon": "/images/logos/google_pack_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Desktop",
+      "categories_slugs": [
+        "google-desktop"
+      ],
+      "icon": "/images/logos/163913813505221225.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Fast_Flip",
+      "categories_slugs": [
+        "google-fast-flip"
+      ],
+      "icon": "/images/logos/uk.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Dictionary",
+      "categories_slugs": [
+        "google-dictionary"
+      ],
+      "icon": "/images/logos/670px-wiktionary_dynamic_dictionary_logo_2.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Labs",
+      "categories_slugs": [
+        "google-labs"
+      ],
+      "icon": "/images/logos/google.gif"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Zd Net",
+      "url": "https://www.zdnet.com/article/google-rebang-now-live/",
+      "categories_slugs": [
+        "google-rebang"
+      ],
+      "icon": "/images/logos/rebanglogo.gif"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Directory",
+      "categories_slugs": [
+        "google-directory"
+      ],
+      "icon": "/images/logos/googledirectorylogo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Image_Swirl",
+      "categories_slugs": [
+        "google-image-swirl"
+      ],
+      "icon": "/images/logos/googleimageswirllogo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Real-Time_Search",
+      "categories_slugs": [
+        "google-real-time-search"
+      ],
+      "icon": "/images/logos/realtime-logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Script_Converter",
+      "categories_slugs": [
+        "google-script-converter"
+      ],
+      "icon": "/images/logos/gscript.png"
     }
   ]
 }
