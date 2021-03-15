@@ -16,7 +16,7 @@
     small
     x-large
     x-small
-    >Home</v-btn>
+    ><a href = "https://killedbygoogle.info">HOME</a></v-btn>
     
     <script>
 import TheHeader from '~/components/TheHeader.vue'
