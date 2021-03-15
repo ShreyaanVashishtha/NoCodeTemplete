@@ -1302,6 +1302,141 @@
         "google-talk"
       ],
       "icon": "/images/logos/google-talk-vector-logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Tech Crunch",
+      "categories_slugs": [
+        "google-sms"
+      ],
+      "url": "https://techcrunch.com/2013/05/12/google-kills-sms-search/",
+      "icon": "/images/logos/google-messages.svg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Cloud_Connect",
+      "categories_slugs": [
+        "google-cloud-connect"
+      ],
+      "icon": "/images/logos/gcp.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Picnik",
+      "categories_slugs": [
+        "picnik"
+      ],
+      "icon": "/images/logos/picnik_website_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Chart_API",
+      "categories_slugs": [
+        "google-chart-api"
+      ],
+      "icon": "/images/logos/amazing-charts-using-google-chart-api-1.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Search_Appliance#Google_Mini",
+      "categories_slugs": [
+        "google-mini"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at AdSense For Feeds",
+      "url": "https://adsenseforfeeds.blogspot.com/",
+      "categories_slugs": [
+        "adsense-for-feeds"
+      ],
+      "icon": "/images/logos/google-adsense-1515156074.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Blog",
+      "url": "https://googleblog.blogspot.com/2012/08/giving-you-better-google.html",
+      "categories_slugs": [
+        "google-listen"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Refine",
+      "categories_slugs": [
+        "google-refine"
+      ],
+      "icon": "/images/logos/1200px-google-refine-logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sparrow_(email_client)",
+      "categories_slugs": [
+        "sparrow"
+      ],
+      "icon": "/images/logos/sparrow_icon.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Insights_for_Search",
+      "categories_slugs": [
+        "google-insights-for-search"
+      ],
+      "icon": "/images/logos/keyword_research_google_insights.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Postini",
+      "categories_slugs": [
+        "postini"
+      ],
+      "icon": "/images/logos/goog-postini.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Video",
+      "categories_slugs": [
+        "google-video"
+      ],
+      "icon": "/images/logos/google_videos_logo_old_2.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Meebo",
+      "categories_slugs": [
+        "meebo"
+      ],
+      "icon": "/images/logos/1200px-meebo_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Tech Crunch",
+      "url": "https://techcrunch.com/2012/01/20/google-trims-the-fat/",
+      "categories_slugs": [
+        "needlebase"
+      ],
+      "icon": "/images/logos/goo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Knol",
+      "categories_slugs": [
+        "knol"
+      ],
+      "icon": "/images/logos/2.jpg"
     }
   ]
 }
