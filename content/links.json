@@ -1212,6 +1212,78 @@
       "categories_slugs": [
         "google-offers"
       ]
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Currents_(2011-2013)",
+      "categories_slugs": [
+        "google-currents"
+      ],
+      "icon": "/images/logos/1200px-google_currents_2019_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Checkout",
+      "categories_slugs": [
+        "google-checkout"
+      ],
+      "icon": "/images/logos/google_checkout_logo-300x236.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://www.google.com.gh/local/trader/",
+      "categories_slugs": [
+        "google-trader"
+      ],
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IGoogle",
+      "categories_slugs": [
+        "igoogle"
+      ],
+      "icon": "/images/logos/9c83d0ca1b9a1b08e5cc30a5849d2e89.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Latitude",
+      "categories_slugs": [
+        "google-latitude"
+      ],
+      "icon": "/images/logos/google-latitude-logo.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Reader",
+      "categories_slugs": [
+        "google-reader"
+      ],
+      "icon": "/images/logos/google_reader_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nexus_Q",
+      "categories_slugs": [
+        "nexus-q"
+      ],
+      "icon": "/images/logos/1200px-nexus_q_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "http://getpunchd.com/",
+      "categories_slugs": [
+        "punchd"
+      ],
+      "icon": "/images/logos/punchd_logo.png"
     }
   ]
 }
