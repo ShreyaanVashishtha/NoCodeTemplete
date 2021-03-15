@@ -7,6 +7,16 @@
     <p class="font-italic">
         KilledByGoogle is an Open-Source Project and can be found on <a href = "https://github.com/ShreyaanVashishtha/NoCodeTemplete"> GitHub.</a>
     </p>
+    <v-btn
+    color = "primary"
+    depressed
+    elevation = "24"
+    large
+    medium
+    small
+    x-large
+    x-small
+    >Home</v-btn>
     
     <script>
 import TheHeader from '~/components/TheHeader.vue'
