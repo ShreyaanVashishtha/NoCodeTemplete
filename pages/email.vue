@@ -5,7 +5,7 @@
    </h2>
      <p class="pa-md-4 mx-lg-auto" >    Killed by Google. There's a lot of them! By Shreyaan Vashishtha</p>
     <p class="font-italic">
-        Click <a href = "https://github.com/ShreyaanVashishtha/NoCodeTemplete"> here </a> to email me or write an email to killedbygoogle@shreyaan.tech OR shreyaan2007@gmail.com
+        Click <a href = "mailto:killedbygoogle@shreyaan.tech"> here</a> to email me or write an email to <a href = "mailto:killedbygoogle@shreyaan.tech"> killedbygoogle@shreyaan.tech</a> OR <a href = "mailto:shreyaan2007@gmail.com"> shreyaan2007@gmail.com</a>
     </p>
     <v-btn
     color = "primary"
