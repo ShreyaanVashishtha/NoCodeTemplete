@@ -1707,6 +1707,96 @@
         "google-script-converter"
       ],
       "icon": "/images/logos/gscript.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Web Archive",
+      "url": "https://web.archive.org/web/20021105033319/http://www.google.com/apis/",
+      "categories_slugs": [
+        "google-sets"
+      ],
+      "icon": "/images/logos/api.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Seround Table",
+      "url": "https://www.seroundtable.com/google-uncle-sam-13518.html",
+      "categories_slugs": [
+        "google-specialized-search"
+      ],
+      "icon": "/images/logos/learning-how-to-search-and-evaluate-information-49-638.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Mashable",
+      "url": "https://mashable.com/2011/04/08/google-hotpot-goes-cold/",
+      "categories_slugs": [
+        "google-hotpot"
+      ],
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gizmo5",
+      "categories_slugs": [
+        "gizmo5"
+      ],
+      "icon": "/images/logos/e1ed87558cb07e726cb667de89ee7354.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google Maps Blog",
+      "url": "https://maps.googleblog.com/2011/01/retiring-real-estate-on-google-maps.html",
+      "categories_slugs": [
+        "real-estate-on-google-maps"
+      ],
+      "icon": "/images/logos/google-maps-blog.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fflick",
+      "categories_slugs": [
+        "fflick"
+      ],
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Base",
+      "categories_slugs": [
+        "google-base"
+      ],
+      "icon": "/images/logos/at264.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/GOOG-411",
+      "categories_slugs": [
+        "GOOG-411"
+      ],
+      "icon": "/images/logos/5b2bf7dc4488b3000926d18f-original.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at GitHub",
+      "url": "https://github.com/BumpTop/BumpTop",
+      "categories_slugs": [
+        "bumptop"
+      ],
+      "icon": "/images/logos/bumptop_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_SearchWiki",
+      "categories_slugs": [
+        "google-searchwiki"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
     }
   ]
 }
