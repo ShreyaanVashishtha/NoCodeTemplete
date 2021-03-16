@@ -1,8 +1,5 @@
 <template>
   <main>
-   <h1 class="section-title">
-   About
-   </h2>
      <p class="pa-md-4 mx-lg-auto" >    Oh Snap! Error 404, Page Not Found</p>
     <v-btn
     color = "primary"
