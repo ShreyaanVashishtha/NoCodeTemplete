@@ -23,7 +23,5 @@
 </template>
 
 <style>
-  .paragraph-text {
-    font-size: 18px;
-  }
+  export default {};
 </style>
