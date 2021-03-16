@@ -1,5 +1,11 @@
 <template>
   <main>
+  <v-img
+  lazy-src="static/images/logos/icon.png"
+  max-height="300"
+  max-width="328"
+  src="static/images/logos/icon.png"
+></v-img>
   <h1 class="section-title">
     404
     </h2>
