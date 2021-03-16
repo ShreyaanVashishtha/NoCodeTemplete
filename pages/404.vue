@@ -1,12 +1,18 @@
 <template>
-  <div class="hello">
-    <h1>Oh Snap! Error 404 Page Not Found</h1>
-    <br>
-    </br>
-    <h1>Go back <a href = "https://www.killedbygoogle.info/"> home</a> </h1>
-  </div>
-</template>
+  <main>
+   <h1 class="section-title">
+   About
+   </h2>
+     <p class="pa-md-4 mx-lg-auto" >    Oh Snap! Error 404, Page Not Found</p>
+    <v-btn
+    color = "primary"
+    depressed
+    elevation = "24"
+    large
+    medium
+    small
+    x-large
+    x-small
+    ><a href = "https://killedbygoogle.info">Home</a></v-btn>
 
-<script>
-export default {};
-</script>
+ </template>
