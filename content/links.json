@@ -1932,6 +1932,105 @@
       ],
       "url": "https://en.wikipedia.org/wiki/List_of_Google_products",
       "icon": "/images/logos/1200px-google_pay_send_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Browser_Sync",
+      "categories_slugs": [
+        "google-browser-sync"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Picasa#Hello",
+      "categories_slugs": [
+        "hello"
+      ],
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Web_Accelerator",
+      "categories_slugs": [
+        "google-web-accelerator"
+      ],
+      "icon": "/images/logos/google_web_accelerator.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Lifewire",
+      "url": "https://www.lifewire.com/google-zeitgeist-3481903",
+      "categories_slugs": [
+        "zeitgeist"
+      ],
+      "icon": "/images/logos/zg.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AdWords#Google_Click-to-Call",
+      "categories_slugs": [
+        "google-click-to-call"
+      ],
+      "icon": "/images/logos/google_ads_logo.svg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Video#Google_Video_Player",
+      "categories_slugs": [
+        "google-video-player"
+      ],
+      "icon": "/images/logos/google_video_player.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Hexus",
+      "url": "https://www.hexus.net/tech/news/software/4324-google-video-marketplace/",
+      "categories_slugs": [
+        "google-video-marketplace"
+      ],
+      "icon": "/images/logos/new-google-logo-knockoff.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Answers",
+      "categories_slugs": [
+        "google-answers"
+      ],
+      "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Writely",
+      "categories_slugs": [
+        "writely"
+      ],
+      "icon": "/images/logos/writely_2005.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Webmaster Google Blog",
+      "url": "https://webmasters.googleblog.com/2006/09/for-those-wondering-about-public.html",
+      "categories_slugs": [
+        "google-public-service-search"
+      ],
+      "icon": "/images/logos/new-google-logo-knockoff.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Computer Weekly",
+      "url": "https://www.computerweekly.com/news/2240053391/Google-launches-Deskbar-software",
+      "categories_slugs": [
+        "google-deskbar"
+      ],
+      "icon": "/images/logos/google-desktop-vs-windows-vista-desktop-2.png"
     }
   ]
 }
