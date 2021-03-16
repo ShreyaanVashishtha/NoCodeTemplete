@@ -1,27 +1,12 @@
-<!-- views/NotFound.vue -->
-
 <template>
-  <div class="NotFound">
-    <v-container>
-      <v-layout row wrap>
-        <v-flex xs12>
-          <v-card height="400" color="transparent" flat>
-            <div class="display-3 mt-5">Oh Snap! Error 404 Page not found.</div>
-            <div class="grey--text lighten-5">
-              The page you are trying to get to never existed in this reality,
-              or has migrated to a parallel universe.
-            </div>
-            <div class="paragraph-text mt-2">
-              <br />
-              <br />Try going back to home page and repeating your action.
-            </div>
-          </v-card>
-        </v-flex>
-      </v-layout>
-    </v-container>
+  <div class="hello">
+    <h1>Oh Snap! Error 404 Page Not Found</h1>
+    <br>
+    </br>
+    <h1>Go back <a href = "https://www.killedbygoogle.info/"> home</a> </h1>
   </div>
 </template>
 
-<style>
-  export default {};
-</style>
+<script>
+export default {};
+</script>
