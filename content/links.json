@@ -1797,6 +1797,141 @@
         "google-searchwiki"
       ],
       "icon": "/images/logos/368px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marratech",
+      "categories_slugs": [
+        "marratech-e-meetings"
+      ],
+      "icon": "/images/logos/marratech_logo.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Web Archive",
+      "url": "https://web.archive.org/web/20021105033319/http://www.google.com/apis/",
+      "categories_slugs": [
+        "google-web-apis"
+      ],
+      "icon": "/images/logos/web-api-tutorial.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Search Engine Watch",
+      "url": "https://searchenginewatch.com/sew/news/2062429/new-from-google-labs-google-ride-finder#",
+      "categories_slugs": [
+        "google-ride-finder"
+      ],
+      "icon": "/images/logos/image3.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Google_Toolbar",
+      "categories_slugs": [
+        "google-toolbar-for-firefox"
+      ],
+      "icon": "/images/logos/google-toolbar-in-firefox-5.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Google_products#2018",
+      "categories_slugs": [
+        "google-radio-automation"
+      ],
+      "icon": "/images/logos/hqdefault.jpg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/On2_Technologies#Acquisition_by_Google",
+      "categories_slugs": [
+        "on2-flix-cloud"
+      ],
+      "icon": "/images/logos/1200px-on2_technologies_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "google-mashup-editor"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Mashup_Editor",
+      "icon": "/images/logos/2880px-google_2015_logo.svg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google",
+      "categories_slugs": [
+        "google-shared-stuff"
+      ],
+      "url": "https://www.google.com/s2/sharing/stuff",
+      "icon": "/images/logos/gpgpg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "grand-central"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Voice",
+      "icon": "/images/logos/google_voice_icon_-2020-.svg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "dodgeball"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Dodgeball_(service)",
+      "icon": "/images/logos/dodgeballcom.svg"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Google TV",
+      "categories_slugs": [
+        "google-audio-ads"
+      ],
+      "url": "http://google-tvads.blogspot.com/2009/02/google-exits-radio-but-will-explore.html",
+      "icon": "/images/logos/gk7iljepwfg1uzwt38t0.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "google-lively"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Lively",
+      "icon": "/images/logos/google_lively.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Tech Crunch",
+      "categories_slugs": [
+        "searchmash"
+      ],
+      "url": "https://techcrunch.com/2008/11/24/why-did-google-discontinue-searchmash/",
+      "icon": "/images/logos/searchmash-deadpool.jpg.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "google-page-creator"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Google_Page_Creator",
+      "icon": "/images/logos/google_page_creator_beta_logo.png"
+    },
+    {
+      "name": "Read More...",
+      "description": "Read More about this at Wikipedia",
+      "categories_slugs": [
+        "send-to-phone"
+      ],
+      "url": "https://en.wikipedia.org/wiki/List_of_Google_products",
+      "icon": "/images/logos/1200px-google_pay_send_logo.svg.png"
     }
   ]
 }
