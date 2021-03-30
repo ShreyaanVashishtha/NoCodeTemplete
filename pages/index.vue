@@ -1,6 +1,7 @@
 <template>
   <div>
     <TheHeader :title="title" :description="description" />
+    <meta name="copyrighted-site-verification" content="64b4e6434eacac33" />
     <div class="container home-search">
       <TheSearch />
     </div>
