@@ -60,6 +60,8 @@ export default {
 }
 </script>
 
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/af0a6466688621d47da71247c/75047a442ab23cfcc14e5a044.js");</script>
+
 <style lang="scss" scoped>
 @import '../assets/style/variables';
 
